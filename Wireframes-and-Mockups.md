@@ -2,7 +2,7 @@ Here you'll find a bunch of wireframes and mockups that will begin to adapt and 
 
 Hopefully these will inspire some discussion and collaboration, and ultimately contribute to the UX design of the Archives Space application.
 
-* [General Layout](General-Layout)
+* [General Layout](Wireframes-and-Mockups/General-Layout)
 * Subject linking and creation
 * Date linking and creation
 * Agent linking and creation
