@@ -19,7 +19,7 @@ build/run frontend:war
 build/run db:migrate
 ```
 
-Then, unpack the `war` files into the tomcat webapps directory:
+Then, copy the `war` files into the tomcat webapps directory:
 
 ```sh
 cp backend/backend.war .../webapps
