@@ -23,7 +23,7 @@ The master branch of the [`archivesspace/archivesspace` repository on github](ht
 The [`hudmol/archivesspace` repository on github](https://github.com/hudmol/archivesspace) is the upstream repository with active development.
 
 ## Migration Framework
-Before following the [instructions in `migrations/READEME.md`](https://github.com/archivesspace/archivesspace/blob/master/migrations/README.md) you will need to install [RVM](https://rvm.io) and execute these commands.
+Before following the [instructions in `migrations/README.md`](https://github.com/archivesspace/archivesspace/blob/master/migrations/README.md) you will need to install [RVM](https://rvm.io) and execute these commands.
 
 ```sh
 rvm install jruby-1.6.7
