@@ -19,4 +19,4 @@ Class, method, backend [API](http://hudmol.github.com/archivesspace/doc/file.API
 
 ## Why another page of docs?
 
-Right now, the [`README.md`](https://github.com/archivesspace/archivesspace/blob/master/README.md) has some directions and a link to [`http://hudmol.github.com/archivesspace/`](http://hudmol.github.com/archivesspace/) which is the `gh-pages` branch (which is also [here](http://hudmol.github.com/archivesspace/)) so why start another place for documentation?  This page, at least right now, is focused as well on the alpha and beta testing phases and how the community can get involved in this phase.
+Right now, the [`README.md`](https://github.com/archivesspace/archivesspace/blob/master/README.md) has some directions and a link to [`http://hudmol.github.com/archivesspace/`](http://hudmol.github.com/archivesspace/) which is the `gh-pages` branch (which is also [here](http://hudmol.github.com/archivesspace/)) so why start another place for documentation?  This page, at least right now, is focused on the alpha and beta testing phases and how the community can get involved in this phase.
