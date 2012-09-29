@@ -15,7 +15,12 @@ How to deploy `.war` on tomcat using mysql database.
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
 
 ## [Source Code Documentation](http://archivesspace.github.com/archivesspace/doc/alpha_index.html)
-Class, method, backend [API](http://archivesspace.github.com/archivesspace/doc/file.API.html) and schema documentation. 
+Class, method, backend [API](http://archivesspace.github.com/archivesspace/doc/file.API.html) and schema documentation.
+
+## Source Code
+The master branch of the [`archivesspace/archivesspace` repository on github](https://github.com/archivesspace/archivesspace) is the current stable-for-testing release of the code.  New versions are released every two weeks.
+
+The [`hudmol/archivesspace` repository on github](https://github.com/hudmol/archivesspace) is the upstream repository with active development.
 
 ## Why another page of docs?
 
