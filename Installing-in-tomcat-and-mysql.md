@@ -1,7 +1,7 @@
 This should work with other servlet containers as well.  If you test it out, please let us know or even just note it on this page.
 
 ArchivesSpace has a "frontend" web application and a "backend" web application.
-The current recommended deployment scenario is to use two tomcat servers, one listening on a public port for the frontend, and one running on a port that is only available to the local machine or private network.  [Twincat](https://github.com/tingletech/twincat) has some shell scripts that can help you set up two tomcat servers.  
+The current recommended deployment scenario is to use two tomcat servers, one listening on a public port for the frontend, and one running on a port that is only available to the local machine or private network for the backend server.
 
 The steps below assume there is a mysql database listening on `localhost` port `3306` named `archivesspace`, user: `as`, password: `as123` as seen on [Getting started | Running with MySQL](https://github.com/archivesspace/archivesspace/blob/master/backend/README.md#running-with-mysql).
 Set user and password to match your database.
