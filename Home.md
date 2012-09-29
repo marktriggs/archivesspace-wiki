@@ -6,10 +6,10 @@ DRAFT DRAFT DRAFT
 The ArchivesSpace project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
 
 ## [[Quick Start]]
-Run a test version with an embedded database.
+How to run a test version with an embedded database.
 
 ## [[Installing in Tomcat and Mysql]]
-Deploy `.war` on tomcat using mysql database.
+How to deploy `.war` on tomcat using mysql database.
 
 ## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
