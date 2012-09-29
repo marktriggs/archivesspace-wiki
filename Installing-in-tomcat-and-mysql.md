@@ -6,10 +6,22 @@ The current recommended deployment scenario is to use two tomcat servers, one li
 The steps below assume there is a mysql database listening on `localhost` port `3306` named `archivesspace`, user: `as`, password: `as123` as seen on [Getting started | Running with MySQL](https://github.com/archivesspace/archivesspace/blob/master/backend/README.md#running-with-mysql).
 Set user and password to match your database.
 
+## ArchivesSpace Dependencies
+
+ * [`git`](http://git-scm.com) is needed to clone the source repository.
+ * JDK 1.6 or JDK 1.7 (from either Oracle or OpenJDK) is needed by embedded `ant` to build (should run okay on JRE)
+ * [`node`](http://nodejs.org) on the $PATH will speed up the sprockets asset pipeline generation phase of the build
+ * J2EE server such as [`tomcat`](http://tomcat.apache.org) 6 or 7; two instances will need to be set up (one for the front end, one for the back end) [TODO: go into more details about how to set up two CATALINA_HOME directories that share a common CATALINA_BASE].
+ * You will need to have a [`mysql`](http://www.mysql.com) database (versions 5.???)
+
+## Clone the repository
+
 ```
 git clone http://github.com/archivesspace/archivesspace.git
 cd archivesspace
 ```
+
+## Edit configuration
 
 Configuration is handled via `config/config.rb`.
 
@@ -20,6 +32,8 @@ AppConfig[:backend_url] = "http://localhost:8081"
 AppConfig[:frontend_url] = "http://localhost:8080"
 ```
 (consider `chmod 600 config/config.rb`?)
+
+## build and install web applications
 
 ```
 build/run backend:war
