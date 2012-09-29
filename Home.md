@@ -14,8 +14,8 @@ Deploy `.war` on tomcat using mysql database.
 ## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
 
-## [Source Code Documentation](http://hudmol.github.com/archivesspace/doc/alpha_index.html)
-Class, method, backend [API](http://hudmol.github.com/archivesspace/doc/file.API.html) and schema documentation. 
+## [Source Code Documentation](http://archivesspace.github.com/archivesspace/doc/alpha_index.html)
+Class, method, backend [API](http://archivesspace.github.com/archivesspace/doc/alpha_index.html) and schema documentation. 
 
 ## Why another page of docs?
 
