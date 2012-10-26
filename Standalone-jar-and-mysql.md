@@ -19,6 +19,7 @@ AppConfig[:frontend_url] = "http://localhost:8080"
 Set a java system property `aspace.config` equal to the path to your config file
 
 ```sh
-java -Daspace.config=path/to/my/config.rb -cp mysql-connector-java-5.1.22-bin.jar:archivesspace.v0.2.0.jar org.archivesspace.Main
-
+java -Daspace.config=path/to/my/config.rb \
+  -cp mysql-connector-java-5.1.22-bin.jar:archivesspace.v0.2.0.jar \
+  org.archivesspace.Main
 ```
