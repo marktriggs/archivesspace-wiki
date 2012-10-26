@@ -8,6 +8,9 @@ The ArchivesSpace project is in an alpha release stage.  This is the page you ca
 ## [[Quick Start]]
 How to run a test version with an embedded database.
 
+## [[Standalone JAR and mysql]]
+Run the standalone jar (embedded jetty) with a mysql database.
+
 ## [[Installing in Tomcat and Mysql]]
 How to deploy `.war` on tomcat using mysql database.
 
@@ -23,6 +26,9 @@ The master branch of the [`archivesspace/archivesspace` repository on github](ht
 The [`hudmol/archivesspace` repository on github](https://github.com/hudmol/archivesspace) is the upstream repository with active development.
 
 ## Migration Framework
+
+Note: this is now accessible from the web interface as well.
+
 Before following the [instructions in `migrations/README.md`](https://github.com/archivesspace/archivesspace/blob/master/migrations/README.md) you will need to install [RVM](https://rvm.io) and execute these commands.
 
 ```sh
