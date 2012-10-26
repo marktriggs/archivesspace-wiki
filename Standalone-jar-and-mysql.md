@@ -1,5 +1,7 @@
 **untested**
 
+this won't work -- need the GNU mysql driver in there somehow
+
 Download the jar file
 
 ```sh
