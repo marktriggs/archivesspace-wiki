@@ -25,6 +25,8 @@ cd archivesspace
 
 Configuration is handled via `config/config.rb`.
 
+When running under Tomcat, the backend and frontend will look for a '$TOMCAT_HOME/conf/config.rb' and load settings from that. 
+
 ```ruby
 # config/config.rb
 AppConfig[:db_url] = "jdbc:mysql://localhost:3306/archivesspace?user=as&password=as123"
