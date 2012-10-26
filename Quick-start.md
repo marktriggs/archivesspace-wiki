@@ -12,7 +12,7 @@ This will start the ArchivesSpace application running on `http://localhost:8080/
 If you’d like to use different ports, you can run:
 
 ```sh
-java -jar launcher/archivesspace.jar [frontend port] [backend port]
+java -jar archivesspace.jar [frontend port] [backend port]
 ```
 Note: If you have already run the service in demo mode, you may need to remove the existing demo database in order to avoid a ‘java.sql.SQLException: Failed to create database’ error:
 
