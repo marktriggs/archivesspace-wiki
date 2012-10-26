@@ -1,4 +1,4 @@
-If you have the Java 1.6.0 SDK (or above) you can build and run a demo server with the following commands:
+If you have the Java 1.6.0 JRE (or above) you can download and run a demo server with the following commands:
 
 ```sh
 wget https://github.com/downloads/archivesspace/archivesspace/archivesspace.v0.2.0.jar
