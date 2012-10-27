@@ -16,6 +16,8 @@ AppConfig[:backend_url] = "http://localhost:8081"
 AppConfig[:frontend_url] = "http://localhost:8080"
 ```
 
+**TODO: dbmigrate**
+
 Set a java system property `aspace.config` equal to the path to your config file
 
 ```sh
