@@ -1,5 +1,3 @@
-**untested**
-
 Download the jar file for archivesspace (ECL2.0) and the jar file for the mysql driver (GNU2.0) 
 
 ```sh
