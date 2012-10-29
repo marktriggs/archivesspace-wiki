@@ -1,8 +1,6 @@
 ## ArchivesSpace
 ### Building a next-generation archives management tool
 
-DRAFT DRAFT DRAFT
-
 The ArchivesSpace project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
 
 ## [[Quick Start]]
@@ -18,7 +16,7 @@ How to deploy `.war` on tomcat using mysql database.
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
 
 ## [Source Code Documentation](http://archivesspace.github.com/archivesspace/doc/alpha_index.html)
-Class, method, backend [API](http://archivesspace.github.com/archivesspace/doc/file.API.html) and schema documentation.
+Class, method, [Backend API] and schema documentation.
 
 ## Source Code
 The master branch of the [`archivesspace/archivesspace` repository on github](https://github.com/archivesspace/archivesspace) is the current stable-for-testing release of the code.  New versions are released every two weeks.
