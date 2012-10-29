@@ -9,7 +9,7 @@ This will start the ArchivesSpace application running on `http://localhost:8080/
 
 ## java.lang.OutOfMemoryError: PermGen space
 
-On OS X, I needed to add `-XX:PermSize=128m -XX:MaxPermSize=256m` because to avoid the above error.
+On OS X, I needed to add `-XX:PermSize=128m -XX:MaxPermSize=256m` to avoid the above error.
 
 ```sh
 java -XX:PermSize=128m -XX:MaxPermSize=256m -jar archivesspace.v0.2.0-1.jar
