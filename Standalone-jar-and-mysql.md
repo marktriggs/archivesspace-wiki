@@ -17,7 +17,7 @@ create a `config/config.rb` file
 ```ruby
 # config/config.rb
 AppConfig[:db_url] = "jdbc:mysql://localhost:3306/archivesspace?user=as&password=as123"
-AppConfig[:backend_url] = "http://localhost:8081"
+AppConfig[:backend_url] = "http://localhost:8089"
 AppConfig[:frontend_url] = "http://localhost:8080"
 ```
 
