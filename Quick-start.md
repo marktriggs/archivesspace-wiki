@@ -2,7 +2,7 @@ If you have the Java 1.6.0 JRE (or above) you can download and run a demo server
 
 Download the file from [`http://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.2.0-1.jar`](http://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.2.0-1.jar)
 
-Then, get to a command prompt and enter this command.
+Then, get to a command prompt and enter this command (this has been tested on Windows and Linux, see below for OS X).
 
 ```sh
 java -jar archivesspace.v0.2.0-1.jar
