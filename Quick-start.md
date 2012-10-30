@@ -18,6 +18,10 @@ On OS X, I needed to add `-XX:PermSize=128m -XX:MaxPermSize=256m` to avoid the a
 java -XX:PermSize=128m -XX:MaxPermSize=256m -jar archivesspace.v0.2.0-1.jar
 ```
 
+## Default users
+
+ArchivesSpace ships with one predefined administrator account.. The username and password for this account are both "admin" (without the quotes). To test the application, you will need to set up the application with the administrator account and create a repository.
+
 ## listen on different ports
 
 If you’d like to use different ports, you can run:
