@@ -32,6 +32,6 @@ Set a java system property `aspace.config` equal to the path to your config file
 
 ```sh
 java -Daspace.config=config/config.rb \
-  -cp lib/mysql-connector-java-5.1.22-bin.jar:lib/archivesspace.jar \
+  -cp lib/mysql-connector-java-5.1.13-bin.jar:lib/archivesspace.jar \
   org.archivesspace.Main
 ```
