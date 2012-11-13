@@ -3,14 +3,15 @@ Download the jar file for archivesspace (ECL2.0) and the jar file for the mysql 
 ```sh
 mkdir lib
 curl https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.2.0-1.jar -o lib/archivesspace.jar
-curl http://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.jar -o lib/mysql-connector-java-5.1.21.jar
+curl http://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.13/mysql-connector-java-5.1.13.jar -o lib/mysql-connector-java-5.1.13.jar
 curl https://s3.amazonaws.com/archivesspace/public-files/as-build.v0.2.0-1.zip -o as-build.zip
      
 ```
 
 unzip the build.zip and run the database migrations:
 ```sh
-unzip as-build.zip  # unpacks build/ and config/ directories
+unzip as-build.zip  # unpacks build/ and config/ directories (needs backend as well...)
+cp lib/mysql-connector-java-5.1.13.jar build/gems/gems/jdbc-mysql-5.1.13/lib/
 ```
 
 create a `config/config.rb` file
