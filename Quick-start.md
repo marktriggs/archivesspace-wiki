@@ -15,7 +15,7 @@ This will start the ArchivesSpace application running on `http://localhost:8080/
 On OS X, I needed to add `-XX:PermSize=128m -XX:MaxPermSize=256m` to avoid the above error.
 
 ```sh
-java -XX:PermSize=128m -XX:MaxPermSize=256m -jar archivesspace.v0.2.0-1.jar
+java -XX:PermSize=128m -XX:MaxPermSize=256m -jar archivesspace.v0.2.1.jar
 ```
 
 ## listen on different ports
@@ -23,5 +23,5 @@ java -XX:PermSize=128m -XX:MaxPermSize=256m -jar archivesspace.v0.2.0-1.jar
 If you’d like to use different ports, you can run:
 
 ```sh
-java -jar archivesspace.v0.2.0-1.jar [frontend port] [backend port]
+java -jar archivesspace.v0.2.1.jar [frontend port] [backend port]
 ```
