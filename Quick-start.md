@@ -15,6 +15,6 @@ This will start the ArchivesSpace application running on `http://localhost:8080/
 If you’d like to use different ports, you can run:
 
 ```sh
-java -jar archivesspace.v0.2.2.jar [frontend port] [backend port]
+java -XX:MaxPermSize=128m -Dfile.encoding=UTF-8 -jar archivesspace.v0.2.2.jar [frontend port] [backend port]
 ```
 [frontend port] and [backend port] are placeholders for actual numbers, such as 8081 8082
