@@ -1,11 +1,42 @@
-### 0.2.1 ()
+### 0.2.3 (December 7, 2012):
+* FEATURE: Spawn new resource records from accession records
+* FEATURE: Support for date expressions containing both date expressions and structured date information
+* FEATURE: Select language of material for resources, digital objects, and their components from a controlled list
+* FEATURE: Select a level of description for resources and resource components from a controlled list or specify "other level" with a user-specified level type
+* FEATURE: Support for administrative and finding aid-related data on a top-level resource
+* FEATURE: Support for notes on resource components, digital objects, and digital object components
+* FEATURE: Basic support for import of EAD exported from Archon
+* FEATURE: LDAP authentication
+* FEATURE: Specify a custom configuration file or custom configuration options when starting the application 
+* FEATURE: Allow administrators to create new users while logged in
+* BUG FIX: Level should display for components in read only view
+* KNOWN ISSUE: Containers and instances not importing properly from EAD
+
+### 0.2.2 (November 26, 2012):
+* FEATURE: Drag and drop hierarchy manipulation for resources and digital objects
+* FEATURE: Keyboard-based hierarchy manipulation for resources and digital objects
+* FEATURE: Support for mixed content/XML in notes fields
+* FEATURE: Creation/editing of collection management subrecords (minimal implementation)
+* FEATURE: Search support for resource, accession, and digital object records
+* FEATURE: Support for custom locations of embedded database
+* FEATURE: Basic support for import of EAD exported Archivists' Toolkit
+* BUG FIX: Non-ASCII Unicode in Agent names not being saved/rendered correctly
+* BUG FIX: Users should not need to enter a rights statement identifier
+
+### 0.2.1 (November 13, 2012):
+
+* FEATURE: Link agents to accessions, resources, digital objects, and their components as creators, sources, or subjects
+* FEATURE: Suppression of accessions
+* BUG FIX: Users should not enter a ref_id manually for a Resource Component
+* BUG FIX: Users with appropriate permissions should be able to create a sibling  record to the Resource Component directly below a top level Resource
+* BUG FIX: Top-level resource should not show extent records of subordinate component records
 
 ### 0.2.0 (October 29, 2012):
 * FEATURE: Assignment of physical instances, containers, and locations to resources and resource components
 * FEATURE: Creation/editing of deaccession records (minimal implementation)
 * FEATURE: Creation/editing of digital objects (minimal implementation)
 * FEATURE: Creation/editing of event records, including linking to agents and accessions, resources, and resource components
-* FEATURE: Creation/editing of note subrecorts linked to resources
+* FEATURE: Creation/editing of note subrecords linked to resources
 * FEATURE: EAD export (basic implementation)
 * FEATURE: Creation/editing of rights records in accessions, resources, and resource components
 * BUG FIX: Resource component edit view link to External Documents section of form was broken
