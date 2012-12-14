@@ -1,3 +1,8 @@
+### 0.2.3-1 (December 9, 2012): 
+* BUG FIX: Remove constraints data values for location coordinates
+* BUG FIX: Resource component view not loading
+* BUG FIX: Component level notes not appearing in menu or in view
+
 ### 0.2.3 (December 7, 2012):
 * FEATURE: Spawn new resource records from accession records
 * FEATURE: Support for date expressions containing both date expressions and structured date information
