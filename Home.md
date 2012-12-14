@@ -5,6 +5,9 @@ The ArchivesSpace project is in an alpha release stage.  This is the page you ca
 ## [[Downloads]]
 Download current or past releases of ArchivesSpace.
 
+## [[Changelog]]
+Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
+
 ## [[Quick Start]]
 How to run a test version with an embedded database.
 
