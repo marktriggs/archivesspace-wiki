@@ -1,5 +1,4 @@
-## ArchivesSpace
-### Building a next-generation archives management tool
+## ArchivesSpace: Building a next-generation archives management tool
 
 The ArchivesSpace project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
 
@@ -10,10 +9,10 @@ Download current or past releases of ArchivesSpace.
 How to run a test version with an embedded database.
 
 ## [[Standalone JAR and mysql]]
-Run the standalone jar (embedded jetty) with a mysql database.
+Run the standalone jar (embedded jetty) with a MySQL database.
 
 ## [[Installing in Tomcat and Mysql]]
-How to deploy `.war` on tomcat using mysql database.
+How to deploy `.war` on Apache Tomcat using MySQL.
 
 ## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
@@ -33,8 +32,8 @@ Note: this is now accessible from the web interface as well.
 Before following the [instructions in `migrations/README.md`](https://github.com/archivesspace/archivesspace/blob/master/migrations/README.md) you will need to install [RVM](https://rvm.io) and execute these commands.
 
 ```sh
-rvm install jruby-1.6.7
-rvm use jruby-1.6.7
+rvm install jruby-1.7
+rvm use jruby-1.7
 export JRUBY_OPTS=--1.9
 gem install nokogiri json-schema psych json
 ```
