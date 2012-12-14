@@ -36,7 +36,7 @@
 * BUG FIX: Users with appropriate permissions should be able to create a sibling  record to the Resource Component directly below a top level Resource
 * BUG FIX: Top-level resource should not show extent records of subordinate component records
 
-### 0.2.0 (October 29, 2012):
+### 0.2.0-1 (October 29, 2012):
 * FEATURE: Assignment of physical instances, containers, and locations to resources and resource components
 * FEATURE: Creation/editing of deaccession records (minimal implementation)
 * FEATURE: Creation/editing of digital objects (minimal implementation)
@@ -45,6 +45,7 @@
 * FEATURE: EAD export (basic implementation)
 * FEATURE: Creation/editing of rights records in accessions, resources, and resource components
 * BUG FIX: Resource component edit view link to External Documents section of form was broken
+* BUG FIX: Table or column name too long for MySQL
 
 ### 0.1.3 (October 15, 2012):
 * FEATURE: Create/edit rights management statements (linking to agents not yet implemented)
