@@ -1,5 +1,12 @@
+### 0.2.3-2 (December 17, 2012): 
+* FEATURE: Add "Publish?" boolean to external document
+* FEATURE: Add rights statements to digital objects and their components
+* BUG FIX: Control jurisdiction values in rights records against ISO 3166
+* BUG FIX: Remove constraints on data values for accession/resource identifiers
+* BUG FIX: Addition of "other_unmapped" value to controlled lists for migration testing
+
 ### 0.2.3-1 (December 9, 2012): 
-* BUG FIX: Remove constraints data values for location coordinates
+* BUG FIX: Remove constraints on data values for location coordinates
 * BUG FIX: Resource component view not loading
 * BUG FIX: Component level notes not appearing in menu or in view
 
