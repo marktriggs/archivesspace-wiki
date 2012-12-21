@@ -1,3 +1,10 @@
+### 0.3.0 (Release date TK):
+* FEATURE: User management by application administrators
+* FEATURE: Control order of access points by dragging and dropping
+* FEATURE: Accessions can be linked to Resources
+* ENHANCEMENT: Dates and Extents appear before Subjects in view and edit screens
+* BUG FIX: Digital Object save button reads "Save Resource"
+ 
 ### 0.2.3-2 (December 17, 2012): 
 * FEATURE: Add "Publish?" boolean to external document
 * FEATURE: Add rights statements to digital objects and their components
