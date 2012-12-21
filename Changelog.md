@@ -1,21 +1,17 @@
 ### 0.3.0 (Release date TK):
-* FEATURE: User management by application administrators
 * FEATURE: Control order of access points by dragging and dropping
 * FEATURE: Accessions can be linked to Resources
+* FEATURE: User management by application administrators
+* FEATURE: Add "Publish?" boolean to external document (0.2.3-2)
+* FEATURE: Add rights statements to digital objects and their components (0.2.3-2)
 * ENHANCEMENT: Dates and Extents appear before Subjects in view and edit screens
 * BUG FIX: Digital Object save button reads "Save Resource"
- 
-### 0.2.3-2 (December 17, 2012): 
-* FEATURE: Add "Publish?" boolean to external document
-* FEATURE: Add rights statements to digital objects and their components
 * BUG FIX: Control jurisdiction values in rights records against ISO 3166
 * BUG FIX: Remove constraints on data values for accession/resource identifiers
 * BUG FIX: Addition of "other_unmapped" value to controlled lists for migration testing
-
-### 0.2.3-1 (December 9, 2012): 
-* BUG FIX: Remove constraints on data values for location coordinates
-* BUG FIX: Resource component view not loading
-* BUG FIX: Component level notes not appearing in menu or in view
+* BUG FIX: Remove constraints on data values for location coordinates (0.2.3-1)
+* BUG FIX: Resource component view not loading (0.2.3-1)
+* BUG FIX: Component level notes not appearing in menu or in view (0.2.3-1)
 
 ### 0.2.3 (December 7, 2012):
 * FEATURE: Spawn new resource records from accession records
