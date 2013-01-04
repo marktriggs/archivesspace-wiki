@@ -20,9 +20,6 @@ Run a test version with an embedded database.
 ## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
 
-## [Source Code Documentation](http://archivesspace.github.com/archivesspace/doc/alpha_index.html)
-Class, method, [Backend API](http://archivesspace.github.com/archivesspace/doc/file.API.html) and schema documentation.  [mysql schema](https://gist.github.com/3562410)
-
 ## Source Code
 The master branch of the [`archivesspace/archivesspace` repository on github](https://github.com/archivesspace/archivesspace) is the current stable-for-testing release of the code.  New versions are released every two weeks.
 
@@ -30,6 +27,7 @@ The [`hudmol/archivesspace` repository on github](https://github.com/hudmol/arch
 
 ## Technical Documentation
 
-* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)
+* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/): Includes class, method, backend API, data model, and other developer documentation
 * [ASpace README](https://github.com/archivesspace/archivesspace/blob/master/README.md): information on building the application from source
 * [[Migration Framework]]: additional information on import and export from the command line
+* [MySQL schema](https://gist.github.com/3562410)
