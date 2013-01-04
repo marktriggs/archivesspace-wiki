@@ -2,7 +2,7 @@ If you have the Java 1.6.0 JRE (or above) you can download and run a demo server
 
 [[Download|downloads]] the most recent version's JAR file. 
 
-Then, get to a command prompt and enter this command (this has been tested on Windows and Linux, see below for OS X).
+Then, get to a command prompt and enter this command (this has been tested on Windows, Mac OS X and Linux).
 
 ```sh
 java -XX:MaxPermSize=128m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar
