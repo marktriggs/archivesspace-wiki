@@ -5,7 +5,7 @@
 * FEATURE: Add "Publish?" boolean to external document (0.2.3-2)
 * FEATURE: Add rights statements to digital objects and their components (0.2.3-2)
 * ENHANCEMENT: Dates and Extents appear before Subjects in view and edit screens
-* BUG FIX: Fix validation requirements for source, rules, and authority identifiers in Agent records [[#41430143]](https://www.pivotaltracker.com/story/show/41430143)
+* BUG FIX: Fix validation requirements for source, rules, and authority identifiers in Agent records [(#41430143)](https://www.pivotaltracker.com/story/show/41430143)
 * BUG FIX: Digital Object save button reads "Save Resource"
 * BUG FIX: Control jurisdiction values in rights records against ISO 3166
 * BUG FIX: Remove constraints on data values for accession/resource identifiers
