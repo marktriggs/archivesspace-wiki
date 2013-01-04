@@ -9,13 +9,13 @@ Download current or past releases of ArchivesSpace.
 Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
 
 ## [[Quick Start]]
-How to run a test version with an embedded database.
 
-## [[Standalone JAR and mysql]]
-Run the standalone jar (embedded jetty) with a MySQL database.
+Run a test version with an embedded database.
 
-## [[Installing in Tomcat and Mysql]]
-How to deploy `.war` on Apache Tomcat using MySQL.
+## Other Deployment Options
+
+* [[Standalone JAR and mysql]]: Run the standalone jar (embedded jetty) with a MySQL database.
+* [[Installing in Tomcat and Mysql]]: How to deploy `.war` on Apache Tomcat using MySQL.
 
 ## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
@@ -28,19 +28,8 @@ The master branch of the [`archivesspace/archivesspace` repository on github](ht
 
 The [`hudmol/archivesspace` repository on github](https://github.com/hudmol/archivesspace) is the upstream repository with active development.
 
-## Migration Framework
+## Technical Documentation
 
-Note: this is now accessible from the web interface as well.
-
-Before following the [instructions in `migrations/README.md`](https://github.com/archivesspace/archivesspace/blob/master/migrations/README.md) you will need to install [RVM](https://rvm.io) and execute these commands.
-
-```sh
-rvm install jruby-1.7
-rvm use jruby-1.7
-export JRUBY_OPTS=--1.9
-gem install nokogiri json-schema psych json
-```
-
-## Why another page of docs?
-
-Right now, the [`README.md`](https://github.com/archivesspace/archivesspace/blob/master/README.md) has some directions and a link to [`http://hudmol.github.com/archivesspace/`](http://hudmol.github.com/archivesspace/) which is the `gh-pages` branch (which is also [here](http://hudmol.github.com/archivesspace/)) so why start another place for documentation?  This page, at least right now, is focused on the alpha and beta testing phases and how the community can get involved in this phase.
+* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)
+* [ASpace README](https://github.com/archivesspace/archivesspace/blob/master/README.md): information on building the application from source
+* [[Migration Framework]]: additional information on import and export from the command line
