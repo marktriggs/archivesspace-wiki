@@ -1,4 +1,5 @@
-### 0.3.1 (January 8, 2013):
+### 0.3.1-1 (January 8, 2013):
+* SECURITY FIX: Fix parameter parsing issue with Rails ([more info](https://groups.google.com/forum/#!topic/rubyonrails-security/61bkgvnSGTQ/discussion))
 * FEATURE [#35869301](https://www.pivotaltracker.com/story/show/35869301): Add navigation between Resources and Accessions when linked
 * FEATURE [#40160989](https://www.pivotaltracker.com/story/show/40160989): Control order of access points by dragging and dropping (0.3.0)
 * FEATURE [#35063647](https://www.pivotaltracker.com/story/show/35063647): Accessions can be linked to Resources (0.3.0)
