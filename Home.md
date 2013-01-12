@@ -24,7 +24,7 @@ Join our community of archivists and technologists working together to build a n
 
 ## Technical Documentation
 
-* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/): Includes class, method, backend API, data model, and other developer documentation
+* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/): Includes class, method, [backend API](http://archivesspace.github.com/archivesspace/doc/file.API.html), data model, and other developer documentation
 * [ASpace README](https://github.com/archivesspace/archivesspace/blob/master/README.md): information on building the application from source
 * [[Migration Framework]]: additional information on import and export from the command line
 * [MySQL schema](https://gist.github.com/3562410)
