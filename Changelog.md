@@ -1,3 +1,11 @@
+### 0.3.2 (January XX, 2013):
+* FEATURE [#42025921](https://www.pivotaltracker.com/story/show/42025921), [#41570081](https://www.pivotaltracker.com/story/show/41570081): Refactor and enhance workflow and user interface for spawning Resources from Accessions
+* FEATURE [#38629259](https://www.pivotaltracker.com/story/show/38629259): Deletion of accessions
+* FEATURE [#40547867](https://www.pivotaltracker.com/story/show/40547867): Support storage of legacy record IDs in backend API requests to assist with migration
+* FEATURE [#40662927](https://www.pivotaltracker.com/story/show/40662927): Add API-based support for parameters to add users to groups automatically on creation
+* ENHANCEMENT [#41505445](https://www.pivotaltracker.com/story/show/41505445): Support automatic generation of Resource Component titles from Date statements
+* BUG FIX [#42368327](https://www.pivotaltracker.com/story/show/42368327): Title should support text longer than 255 characters
+
 ### 0.3.1-1 (January 8, 2013):
 * SECURITY FIX: Fix parameter parsing issue with Rails ([more info](https://groups.google.com/forum/#!topic/rubyonrails-security/61bkgvnSGTQ/discussion))
 * FEATURE [#35869301](https://www.pivotaltracker.com/story/show/35869301): Add navigation between Resources and Accessions when linked
