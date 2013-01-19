@@ -1,4 +1,4 @@
-### 0.3.2 (January XX, 2013):
+### 0.3.2 (January 18, 2013):
 * FEATURE [#42025921](https://www.pivotaltracker.com/story/show/42025921), [#41570081](https://www.pivotaltracker.com/story/show/41570081): Refactor and enhance workflow and user interface for spawning Resources from Accessions
 * FEATURE [#38629259](https://www.pivotaltracker.com/story/show/38629259): Deletion of accessions
 * FEATURE [#40547867](https://www.pivotaltracker.com/story/show/40547867): Support storage of legacy record IDs in backend API requests to assist with migration
