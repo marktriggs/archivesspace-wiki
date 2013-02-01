@@ -5,7 +5,7 @@
 The ArchivesSpace project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
 
 ## [[Downloads]]
-Download current or past releases of ArchivesSpace.
+Download current or past releases of ArchivesSpace. For access to source code, see below.
 
 ## [[Changelog]]
 Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
