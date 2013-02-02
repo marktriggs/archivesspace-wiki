@@ -1,6 +1,6 @@
 ### Current release
 
-* ArchivesSpace 0.3.3 (2013-01-29)
+* ArchivesSpace 0.3.3 (2013-02-01)
     * [archivesspace-0.3.3.jar](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.3.3.jar)
     * [frontend-0.3.3.war](https://s3.amazonaws.com/archivesspace/public-files/frontend.v0.3.3.war)
     * [backend-0.3.3.war](https://s3.amazonaws.com/archivesspace/public-files/backend.v0.3.3.war)
