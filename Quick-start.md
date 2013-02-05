@@ -8,8 +8,8 @@ java -XX:MaxPermSize=128m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar
 1. This will start the ArchivesSpace front application running at [http://localhost:8080/](http://localhost:8080).
    * The backend web service is running on http://localhost:8089/ 
 1. To set up the application, browse to [http://localhost:8080/](http://localhost:8080) and log in using the adminstrator account:
-   * Username: admin
-   * Password: admin
+   * Username: `admin`
+   * Password: `admin`
 
 ## Listen on different ports
 
