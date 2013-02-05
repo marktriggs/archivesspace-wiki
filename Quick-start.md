@@ -1,7 +1,9 @@
-*Requirements / Before you begin*
+**Requirements / Before you begin**
+
 * Java: Java 7 is recommended, but Java 6/1.6.0 JRE is supported.  [Download Java here](http://www.java.com/en/download/index.jsp). 
 
-* Starting the application 
+**Starting the application**
+
 1. [[Download|downloads]] the most recent version's JAR file. 
 1. Then, get to a command prompt (on Windows, use Start -> Run -> cmd.exe) and enter this command (where X and Y are placeholders for the version numbers):
 ```sh
