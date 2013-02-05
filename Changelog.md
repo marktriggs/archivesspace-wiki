@@ -1,3 +1,16 @@
+### 0.3.3 (February 2, 2013):
+* SECURITY FIX: Address CVE-2013-0333: vulnerability in JSON parser ([more info](https://groups.google.com/d/topic/rubyonrails-security/1h2DR63ViGo/discussion)) (0.3.2-1)
+* FEATURE [#42603937](https://www.pivotaltracker.com/story/show/42603937): CSV import of accessions data (basic support)
+* FEATURE [#35775219](https://www.pivotaltracker.com/story/show/35775219): Add tooltips (first for accessions) and administrator-editable tooltip content
+* FEATURE [#41570797](https://www.pivotaltracker.com/story/show/41570797): Implement Advanced Data Entry user group
+* FEATURE [#41572523](https://www.pivotaltracker.com/story/show/41572523): Implement Project Manager user group
+* FEATURE [#41509633](https://www.pivotaltracker.com/story/show/41509633): Link Resources and Digital Objects
+* FEATURE [#42441493](https://www.pivotaltracker.com/story/show/42441493), [#42441483](https://www.pivotaltracker.com/story/show/42441483), [#42441471](https://www.pivotaltracker.com/story/show/42441471), [#42523625](https://www.pivotaltracker.com/story/show/42523625): Add support for dynamic, configurable Enumerations (lookup lists for semi-controlled values)
+* BUG FIX [#42268601](https://www.pivotaltracker.com/story/show/42268601): Require Resource identifier
+* BUG FIX [#41440365](https://www.pivotaltracker.com/story/show/41440365): End dates can't come before begin dates and vice versa
+* BUG FIX [#34168827](https://www.pivotaltracker.com/story/show/34168827): Uniqueness of ref_id should only be enforced within a Resource, not across resources
+
+
 ### 0.3.2 (January 18, 2013):
 * FEATURE [#42025921](https://www.pivotaltracker.com/story/show/42025921), [#41570081](https://www.pivotaltracker.com/story/show/41570081): Refactor and enhance workflow and user interface for spawning Resources from Accessions
 * FEATURE [#38629259](https://www.pivotaltracker.com/story/show/38629259): Deletion of accessions
