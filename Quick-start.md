@@ -5,9 +5,9 @@
 **Starting the application**
 
 1. [[Download|downloads]] the most recent version's JAR file. 
-1. Then, get to a command prompt (on Windows, use Start -> Run -> cmd.exe) and enter this command (where X and Y are placeholders for the version numbers):
+1. Then, get to a command prompt (on Windows, use Start -> Run -> cmd.exe) and enter this command (where M and N are placeholders for the version numbers):
 ```sh
-java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar
+java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.M.N.jar
 ```
 1. This will start the ArchivesSpace front application running at [http://localhost:8080/](http://localhost:8080).
    * The backend web service is running on http://localhost:8089/ 
