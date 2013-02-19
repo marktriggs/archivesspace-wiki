@@ -1,3 +1,19 @@
+### 0.3.4 (February 18, 2013):
+* SECURITY FIX: Address CVE-2013-0269: vulnerability in JSON parser ([more info](https://groups.google.com/d/topic/rubyonrails-security/4_YvCpLzL58/discussion)) (0.3.2-1)
+* FEATURE [#43807355](https://www.pivotaltracker.com/story/show/43807355), [#43807055](https://www.pivotaltracker.com/story/show/43807055): Public discovery application, with display of descriptive information and searching by title and keyword
+* FEATURE [#42604187](https://www.pivotaltracker.com/story/show/42604187): Basic support for importing EAC-CPF records as Agents
+* FEATURE [#42603975](https://www.pivotaltracker.com/story/show/42603975): Basic support for importing MARCXML records as Resources
+* FEATURE [#43810291](https://www.pivotaltracker.com/story/show/43810291): Add additional required properties for Repositories (organization code, contact info, etc.)
+* FEATURE [#42928309](https://www.pivotaltracker.com/story/show/42928309): Improve error messages for problems during import
+* FEATURE [#41505927](https://www.pivotaltracker.com/story/show/41505927): Add component unique identifier (e.g. for series information) to Resource Components
+* FEATURE [#43535127](https://www.pivotaltracker.com/story/show/43535127), [#42931479](https://www.pivotaltracker.com/story/show/42931479), [#43535079](https://www.pivotaltracker.com/story/show/43535079): Support for external help links and related configuration (to support external web-based documentation)
+* BUG FIX [#43514895](https://www.pivotaltracker.com/story/show/43514895): Group form allows adding a username that doesn't exist
+* BUG FIX [#43798975](https://www.pivotaltracker.com/story/show/43798975), [#43517753](https://www.pivotaltracker.com/story/show/43517753): Bottom navigation in agent/subject popups doesn't work properly
+* BUG FIX [#43562315](https://www.pivotaltracker.com/story/show/43562315): Linking a digital object to an event fails
+* BUG FIX [#43799713](https://www.pivotaltracker.com/story/show/43799713): Accessions: "Dates" missing from nav bar; "Extents" shows up twice
+* BUG FIX [#43798569](https://www.pivotaltracker.com/story/show/43798569): Issues with selecting and editing text in large text fields
+* BUG FIX [#41438617](https://www.pivotaltracker.com/story/show/41438617), [#42635441](https://www.pivotaltracker.com/story/show/42635441), [#42635327](https://www.pivotaltracker.com/story/show/42635327), [#41438505](https://www.pivotaltracker.com/story/show/41438505): Agents: Issues with Sort/Display Name generation
+
 ### 0.3.3 (February 2, 2013):
 * SECURITY FIX: Address CVE-2013-0333: vulnerability in JSON parser ([more info](https://groups.google.com/d/topic/rubyonrails-security/1h2DR63ViGo/discussion)) (0.3.2-1)
 * FEATURE [#42603937](https://www.pivotaltracker.com/story/show/42603937): CSV import of accessions data (basic support)
