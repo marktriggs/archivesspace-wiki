@@ -14,12 +14,19 @@ java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.M
 1. To set up and use the application, browse to [http://localhost:8080/](http://localhost:8080) and log in using the adminstrator account:
    * Username: `admin`
    * Password: `admin`
+1. The public discovery layer by default is running on http://localhost:8081/
 
 ## Listen on different ports
 
 If you’d like to use different ports, you can run:
 
 ```sh
-java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar [frontend port] [backend port]
+java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar \
+  [frontend port] [backend port] [solr port] [public port]
 ```
-[frontend port] and [backend port] are placeholders for actual numbers, such as 8081 8082
+
+The bracketed numbers are placeholders. For example, to run the frontend on port 7777, the backend on port 7776, Solr on 7775, and the public application, use the following command:
+
+```sh
+java -XX:MaxPermSize=256m -Xmx256m -Dfile.encoding=UTF-8 -jar archivesspace.v0.X.Y.jar 7777 7776 7775 7778
+```
