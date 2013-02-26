@@ -4,6 +4,7 @@
     * [archivesspace-0.3.4.jar](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.3.4.jar)
     * [frontend-0.3.4.war](https://s3.amazonaws.com/archivesspace/public-files/frontend.v0.3.4.war)
     * [backend-0.3.4.war](https://s3.amazonaws.com/archivesspace/public-files/backend.v0.3.4.war)
+    * [public-0.3.4.war](https://s3.amazonaws.com/archivesspace/public-files/public.v0.3.4.war)
 
 ### Past releases
 
