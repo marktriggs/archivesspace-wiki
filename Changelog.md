@@ -1,4 +1,4 @@
-### 0.4.0 (March X, 2013):
+### 0.4.0 (March 4, 2013):
 * FEATURE [#42604075](https://www.pivotaltracker.com/story/show/42604075): Export digital objects as Dublin Core XML
 * FEATURE [#42604105](https://www.pivotaltracker.com/story/show/42604105): Export digital objects as METS
 * FEATURE [#42604123](https://www.pivotaltracker.com/story/show/42604123): Export digital objects as MODS
