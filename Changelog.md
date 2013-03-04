@@ -4,7 +4,7 @@
 * FEATURE [#42604123](https://www.pivotaltracker.com/story/show/42604123): Export digital objects as MODS
 * FEATURE [#41570795](https://www.pivotaltracker.com/story/show/41570795): Implement Basic Data Entry group
 * FEATURE [#39233395](https://www.pivotaltracker.com/story/show/39233395), [#43807667](https://www.pivotaltracker.com/story/show/43807667): Filter browse lists and query results using facets
-* FEATURE [#43810817](https://www.pivotaltracker.com/story/show/43810817): Allow import process to automatically populate configurable enumerations (lookup lists)
+* FEATURE [#43810817](https://www.pivotaltracker.com/story/show/43810817), [#44678553](https://www.pivotaltracker.com/story/show/44678553): Allow import process to automatically populate configurable enumerations (lookup lists)
 * FEATURE [#43971737](https://www.pivotaltracker.com/story/show/43971737): Allow multiple text parts in a given note
 * FEATURE [#35791779](https://www.pivotaltracker.com/story/show/35791779): Add optional role property to Agents that are linked to Resources, Accessions, or Digital Objects
 * FEATURE [#42604057](https://www.pivotaltracker.com/story/show/42604057): Export Resource records as MARCXML
@@ -14,6 +14,9 @@
 * FEATURE [#43794125](https://www.pivotaltracker.com/story/show/43794125): Extent: Change "Leafs" to "Leaves"
 * FEATURE [#42604153](https://www.pivotaltracker.com/story/show/42604153): Export Agents as EAC-CPF
 * FEATURE [#42604019](https://www.pivotaltracker.com/story/show/42604019): Import only Agents and Subjects from MARCXML data
+* BUG FIX [#44918277](https://www.pivotaltracker.com/story/show/44918277): Usernames should allow hyphens
+* BUG FIX [#43800193](https://www.pivotaltracker.com/story/show/43800193): Disable warnings for empty condition and content descriptions for Accessions
+* BUG FIX [#45368405](https://www.pivotaltracker.com/story/show/45368405): Browse linker not loading for Agents and Subjects
 * BUG FIX [#43824713](https://www.pivotaltracker.com/story/show/43824713): Spawning an Accession with a linked Rights record fails
 * BUG FIX [#43970189](https://www.pivotaltracker.com/story/show/43970189), [#43970861](https://www.pivotaltracker.com/story/show/43970861): Textual content for notes that are bibliographies or indexes should be optional
 * BUG FIX [#43930977](https://www.pivotaltracker.com/story/show/43930977): Usernames should allow spaces
