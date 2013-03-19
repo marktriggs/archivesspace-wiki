@@ -1,3 +1,17 @@
+### 0.4.1 (March 18, 2013):
+* FEATURE [#44678103](https://www.pivotaltracker.com/story/show/44678103): Improved note handling for Agents
+* FEATURE [#43492849](https://www.pivotaltracker.com/story/show/43492849): Improved workflow for Repository creation and management
+* FEATURE [#43807809](https://www.pivotaltracker.com/story/show/43807809): Advanced search in the public discover interface
+* FEATURE [#43113233](https://www.pivotaltracker.com/story/show/43113233): Digital Objects: support for File Version subrecords
+* FEATURE [#42100221](https://www.pivotaltracker.com/story/show/42100221): Export container labels
+* FEATURE [#35064329](https://www.pivotaltracker.com/story/show/35064329): Create Events from within Accessions
+* FEATURE [#43824271](https://www.pivotaltracker.com/story/show/43824271): Make text fields within application larger
+* FEATURE [#43559931](https://www.pivotaltracker.com/story/show/43559931): Agents: Add Note textarea field to Contact Details subrecords
+* FEATURE [#41509221](https://www.pivotaltracker.com/story/show/41509221): Specify Notes as internal only
+* ENHANCEMENT [#43971539](https://www.pivotaltracker.com/story/show/43971539): Abbreviated representation of note types in data model
+* BUG FIX [#44771071](https://www.pivotaltracker.com/story/show/44771071): Resource Components: ref_id should allow "-", "_", ":", and "."
+
+
 ### 0.4.0 (March 4, 2013):
 * FEATURE [#42604075](https://www.pivotaltracker.com/story/show/42604075): Export digital objects as Dublin Core XML
 * FEATURE [#42604105](https://www.pivotaltracker.com/story/show/42604105): Export digital objects as METS
