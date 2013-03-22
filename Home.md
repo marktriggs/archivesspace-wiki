@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/archivesspace/archivesspace.png?branch=master)](https://travis-ci.org/archivesspace/archivesspace) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
-The ArchivesSpace project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
+The [ArchivesSpace](http://www.archivesspace.org/) project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
 
 ## [[Downloads]]
 Download current or past releases of ArchivesSpace. For access to source code, see below.
