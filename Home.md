@@ -12,7 +12,7 @@ Release history for ArchivesSpace, summarizing implemented features, fixed bugs,
 
 ## [[Quick Start]]
 
-Run a test version with an embedded database.
+Run a test version with an embedded database. For versions 0.4.1 and earlier, see [[Quick start (0.4.1 and earlier)]].
 
 ## Other Deployment Options
 
