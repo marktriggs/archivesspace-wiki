@@ -10,7 +10,7 @@ Download current or past releases of ArchivesSpace. For access to source code, s
 ## [[Changelog]]
 Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
 
-## [[Quick Start]]
+## [Quick start](https://github.com/hudmol/archivesspace/#readme)
 
 Run a test version with an embedded database. For versions 0.4.1 and earlier, see [[Quick start (0.4.1 and earlier)]].
 
