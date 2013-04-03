@@ -1,3 +1,18 @@
+### 0.4.2 (April 1, 2013):
+* FEATURE [#43812815](https://www.pivotaltracker.com/story/show/43812815): Refactor Collections Management UI (creation/editing now in context of linked record)
+* FEATURE [#35065125](https://www.pivotaltracker.com/story/show/35065125): Basic reporting framework with PDF, HTML, Excel, CSV, and JSON output
+* FEATURE [#41506217](https://www.pivotaltracker.com/story/show/41506217): Specify a default value for Enumerations
+* FEATURE [#41192409](https://www.pivotaltracker.com/story/show/41192409): Rework application distribution and provide scripts to run ArchivesSpace as a service
+* FEATURE [#41508431](https://www.pivotaltracker.com/story/show/41508431): Resources: Add Level of Description label to Resource "tree" UI
+* FEATURE [#41509815](https://www.pivotaltracker.com/story/show/41509815): Add extent types for digital materials
+* FEATURE [#45553651](https://www.pivotaltracker.com/story/show/45553651): Automatically add an Event when creating an Agent (needed for EAC-CPF export)
+* FEATURE [#43559337](https://www.pivotaltracker.com/story/show/43559337), [#43559173](https://www.pivotaltracker.com/story/show/43559173): Improve Agent index views
+* FEATURE [#43459655](https://www.pivotaltracker.com/story/show/43459655): Add additional Accession properties
+* ENHANCEMENT [#46409585](https://www.pivotaltracker.com/story/show/46409585): Remove descriptive notes from name form records (EAC-CPF data model consistency)
+* ENHANCEMENT [#43820805](https://www.pivotaltracker.com/story/show/43820805): Change labels and property names that start with "Uncertainty" to "Certainty" (EAD data model consistency)
+* BUG FIX [#45461739](https://www.pivotaltracker.com/story/show/45461739): Agent link role should not allow for configurable values
+* BUG FIX [#45446279](https://www.pivotaltracker.com/story/show/45446279): Indexer should handle notifications about updated Enumerations
+
 ### 0.4.1 (March 18, 2013):
 * FEATURE [#44678103](https://www.pivotaltracker.com/story/show/44678103): Improved note handling for Agents
 * FEATURE [#43492849](https://www.pivotaltracker.com/story/show/43492849): Improved workflow for Repository creation and management
