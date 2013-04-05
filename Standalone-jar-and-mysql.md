@@ -1,3 +1,6 @@
+
+**The following information is for ArchivesSpace 0.4.1 and earlier only.** See the [Quick Start](https://github.com/archivesspace/archivesspace#readme) for the most up to date information.
+
 Download the jar file for archivesspace (ECL2.0) and the jar file for the mysql driver (GNU2.0) 
 
 ```sh
