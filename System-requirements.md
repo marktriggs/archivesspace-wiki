@@ -3,6 +3,8 @@
 * Java 1.6 or higher; Java 1.7+ recommended
 * MySQL (not required, but recommended for production use)
 
+ArchivesSpace has been tested on Linux, Mac OS X, and Windows.
+
 ## Browser Requirements for Staff and Public Users
 
 ArchivesSpace uses a tiered approach to browser support in order to guarantee accessibility to a broad base of users and cutting edge functionality to power users.
