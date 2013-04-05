@@ -10,9 +10,11 @@ Download current or past releases of ArchivesSpace. For access to source code, s
 ## [[Changelog]]
 Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
 
-## [Quick start](https://github.com/archivesspace/archivesspace/#readme)
+## [[System requirements]] 
+An overview for what you'll need to install ArchivesSpace and and which web browsers are supported.
 
-Set up an instance of the application, using either the embedded database or MySQL.
+## [Quick start](https://github.com/archivesspace/archivesspace/#readme)
+Set up an instance of the application, using either the embedded database or MySQL. See the
 
 ## Other Deployment Information
 * [Running ArchivesSpace with load balancing](https://github.com/hudmol/archivesspace/tree/master/clustering#readme)
@@ -20,7 +22,7 @@ Set up an instance of the application, using either the embedded database or MyS
     * [[Standalone JAR and mysql]]: Run the standalone jar (embedded jetty) with a MySQL database. (likely out of date)
     * [[Installing in Tomcat and Mysql]]: How to deploy `.war` on Apache Tomcat using MySQL.
 
-## [ArchivesSpace google group](http://groups.google.com/group/archivesspace)
+## [ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)
 Join our community of archivists and technologists working together to build a next-generation archives management tool. 
 
 ## Technical Documentation
