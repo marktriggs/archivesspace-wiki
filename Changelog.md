@@ -1,3 +1,16 @@
+### 0.4.3 (April 15, 2013): 
+* FEATURE [#44678161](https://www.pivotaltracker.com/story/show/44678161): Relationships between agents (associative, earlier/later, parent/child)
+* FEATURE [#45552845](https://www.pivotaltracker.com/story/show/45552845), [#47244859](https://www.pivotaltracker.com/story/show/47244859): Transfer components between resources
+* FEATURE [#43807701](https://www.pivotaltracker.com/story/show/43807701): Digital objects in the public frontend
+* FEATURE [#35061477](https://www.pivotaltracker.com/story/show/35061477): User-defined fields for Accessions, Resources and Digital Objects
+* FEATURE [#35065215](https://www.pivotaltracker.com/story/show/35065215): Unprocessed accessions report
+* FEATURE [#44675539](https://www.pivotaltracker.com/story/show/44675539): Specify components as internal only
+* FEATURE [#43512693](https://www.pivotaltracker.com/story/show/43512693): Add contact info to Users
+* FEATURE [#41461107](https://www.pivotaltracker.com/story/show/41461107): Add scope note subject
+* FEATURE [#43799411](https://www.pivotaltracker.com/story/show/43799411): Associate Accessions with Instances and Locations
+* FEATURE [#41456665](https://www.pivotaltracker.com/story/show/41456665), [#43514117](https://www.pivotaltracker.com/story/show/43514117): Improved group/user workflow
+* BUG [#47205979](https://www.pivotaltracker.com/story/show/47205979): Collapse bar for collection management should show processing_status with appropriate value
+
 ### 0.4.2 (April 1, 2013):
 * FEATURE [#43812815](https://www.pivotaltracker.com/story/show/43812815): Refactor Collections Management UI (creation/editing now in context of linked record)
 * FEATURE [#35065125](https://www.pivotaltracker.com/story/show/35065125): Basic reporting framework with PDF, HTML, Excel, CSV, and JSON output
