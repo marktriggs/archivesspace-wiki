@@ -30,7 +30,7 @@
 * FEATURE [#41461107](https://www.pivotaltracker.com/story/show/41461107): Add scope note to Subjects
 * FEATURE [#43799411](https://www.pivotaltracker.com/story/show/43799411): Associate Accessions with Instances and Locations
 * FEATURE [#41456665](https://www.pivotaltracker.com/story/show/41456665), [#43514117](https://www.pivotaltracker.com/story/show/43514117): Improved group/user workflow
-* BUG [#47205979](https://www.pivotaltracker.com/story/show/47205979): Collapse bar for collection management should show processing_status with appropriate value
+* BUG FIX [#47205979](https://www.pivotaltracker.com/story/show/47205979): Collapse bar for collection management should show processing_status with appropriate value
 
 ### 0.4.2 (April 1, 2013):
 * FEATURE [#43812815](https://www.pivotaltracker.com/story/show/43812815): Refactor Collections Management UI (creation/editing now in context of linked record)
