@@ -1,3 +1,24 @@
+### 0.5.0 (April 29, 2013): 
+* FEATURE [#35792983](https://www.pivotaltracker.com/story/show/35792983): Add subdivisions (e.g. subject or form) to Agents linked to Resources, Digital Objects, and Accessions
+* FEATURE [#47583321](https://www.pivotaltracker.com/story/show/47583321): Eliminate unnecessary mouse clicks and improve UI workflow
+* FEATURE [#48766865](https://www.pivotaltracker.com/story/show/48766865): Editing forms should follow DACS/ISAD(G) more closely
+* FEATURE [#37382431](https://www.pivotaltracker.com/story/show/37382431): Create backup "packages" for easy redeployment
+* FEATURE [#41428503](https://www.pivotaltracker.com/story/show/41428503): Browse users or use autocomplete to locate users when adding to a group
+* FEATURE [#47583643](https://www.pivotaltracker.com/story/show/47583643): Better UI feedback when saving records
+* FEATURE [#46516237](https://www.pivotaltracker.com/story/show/46516237): Make date data entry easier
+* FEATURE [#48086081](https://www.pivotaltracker.com/story/show/48086081): Create an event when transferring components from one Resource to another
+* FEATURE [#46512927](https://www.pivotaltracker.com/story/show/46512927): Agents: add contact persons note field
+* FEATURE [#37382393](https://www.pivotaltracker.com/story/show/37382393), [#37382341](https://www.pivotaltracker.com/story/show/37382341): Clustered/multitenant deployment support and documentation
+* ENHANCEMENT [#34076709](https://www.pivotaltracker.com/story/show/34076709): Repositories also represented as Agents in data model (allows linking in events)
+* ENHANCEMENT [#48128063](https://www.pivotaltracker.com/story/show/48128063): Convert static enums to dynamic enums so they can be stored in backend database
+* BUG FIX [#47675227](https://www.pivotaltracker.com/story/show/47675227): Pagination does not work in public UI
+* BUG FIX [#47691817](https://www.pivotaltracker.com/story/show/47691817): Resources with "Publish?" set to false are displaying public UI
+* BUG FIX [#47691151](https://www.pivotaltracker.com/story/show/47691151): Locations and ref IDs should not display in public UI
+* BUG FIX [#47675799](https://www.pivotaltracker.com/story/show/47675799): Application error in public UI when trying to display a resource with only digital instances
+* BUG FIX [#47692875](https://www.pivotaltracker.com/story/show/47692875): Pagination in staff UI for repositories doesn't work
+* BUG FIX [#47677273](https://www.pivotaltracker.com/story/show/47677273): Subject term autocomplete fails with left parentheses
+* BUG FIX [#46673841](https://www.pivotaltracker.com/story/show/46673841): File format name should be configurable enum
+
 ### 0.4.3 (April 15, 2013): 
 * FEATURE [#44678161](https://www.pivotaltracker.com/story/show/44678161): Relationships between agents (associative, earlier/later, parent/child)
 * FEATURE [#45552845](https://www.pivotaltracker.com/story/show/45552845), [#47244859](https://www.pivotaltracker.com/story/show/47244859): Transfer components between resources
