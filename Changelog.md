@@ -1,3 +1,29 @@
+### 0.5.1 (May XX, 2013): 
+
+* FEATURE [#41457465](https://www.pivotaltracker.com/story/show/41457465), [#43512493](https://www.pivotaltracker.com/story/show/43512493), [#41508763](https://www.pivotaltracker.com/story/show/41508763): Allow deletion of all record types
+* FEATURE [#41457465](https://www.pivotaltracker.com/story/show/41457465): Add filtering/faceting to rest of search browse screens within staff UI
+* FEATURE [#47583279](https://www.pivotaltracker.com/story/show/47583279): Improved UI guidance about required fields
+* FEATURE [#47583233](https://www.pivotaltracker.com/story/show/47583233): Provide access to record actions (spawn, delete, etc.) from within edit forms
+* FEATURE [#47209991](https://www.pivotaltracker.com/story/show/47209991): Configure a default value for non-editable enumerations  such as date type or language
+* FEATURE [#47583811](https://www.pivotaltracker.com/story/show/47583811): Sort and filter the browse list in record linking popup 
+* ENHANCEMENT [#49292329](https://www.pivotaltracker.com/story/show/49292329): Update tooltips to describe required/conditionally required fields
+* ENHANCEMENT [#48600195](https://www.pivotaltracker.com/story/show/48600195): Remove internal_only property from Archival Objects and Notes
+* ENHANCEMENT [#43559667](https://www.pivotaltracker.com/story/show/43559667): Rename Subject "ref_id" property "authority_id" to make consistent with Agents
+* ENHANCEMENT [#46217967](https://www.pivotaltracker.com/story/show/46217967): Extents: container_summary and physical_details should be a TextField
+* ENHANCEMENT [#43820677](https://www.pivotaltracker.com/story/show/43820677): Dates: expression field should be visually larger
+* ENHANCEMENT [#46377505](https://www.pivotaltracker.com/story/show/46377505): Update METS export mappings to include properties from File Version objects
+* ENHANCEMENT [#48702729](https://www.pivotaltracker.com/story/show/48702729): Rework date/title requirements for Resource Components
+* ENHANCEMENT [#46557613](https://www.pivotaltracker.com/story/show/46557613): Collection Management: Add processing_funding_source property
+* ENHANCEMENT [#47583857](https://www.pivotaltracker.com/story/show/47583857): Change “+1” and “Add Child Component” component pull-downs to buttons, and relabel the former to “Add Sibling”
+* ENHANCEMENT [#43558175](https://www.pivotaltracker.com/story/show/43558175): Add Resource Description and Access to Agent rules enum
+* BUG FIX [#49637103](https://www.pivotaltracker.com/story/show/49637103): Record linker popup for events: translation missing
+* BUG FIX [#48602367](https://www.pivotaltracker.com/story/show/48602367): Public frontend: repositories needs pagination
+* BUG FIX [#47748631](https://www.pivotaltracker.com/story/show/47748631): External document URIs are trying to be resolved
+* BUG FIX [#43516657](https://www.pivotaltracker.com/story/show/43516657): Subjects: authority_id only has to be unique in combination with the source
+* BUG FIX [#48694911](https://www.pivotaltracker.com/story/show/48694911): Indexer raises Timeout::Error when importing large EAD files
+* BUG FIX [#48602071](https://www.pivotaltracker.com/story/show/48602071): NoMethodError on some MARCXML and EAD imports
+* BUG FIX [#49079625](https://www.pivotaltracker.com/story/show/49079625): Digital objects: level should allow null
+
 ### 0.5.0 (April 29, 2013): 
 * FEATURE [#35792983](https://www.pivotaltracker.com/story/show/35792983): Add subdivisions (e.g. subject or form) to Agents linked to Resources, Digital Objects, and Accessions
 * FEATURE [#47583321](https://www.pivotaltracker.com/story/show/47583321): Eliminate unnecessary mouse clicks and improve UI workflow
