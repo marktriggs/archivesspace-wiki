@@ -1,4 +1,4 @@
-### 0.5.1 (May XX, 2013): 
+### 0.5.1 (May 10, 2013): 
 
 * FEATURE [#41457465](https://www.pivotaltracker.com/story/show/41457465), [#43512493](https://www.pivotaltracker.com/story/show/43512493), [#41508763](https://www.pivotaltracker.com/story/show/41508763): Allow deletion of all record types
 * FEATURE [#41457465](https://www.pivotaltracker.com/story/show/41457465): Add filtering/faceting to rest of search browse screens within staff UI
