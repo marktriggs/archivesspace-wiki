@@ -1,3 +1,17 @@
+### 0.5.2 (May 24, 2013):
+
+* FEATURE [#43821087](https://www.pivotaltracker.com/story/show/43821087), [#49814363](https://www.pivotaltracker.com/story/show/49814363): "Rapid data entry" for Resources with sticky values
+* FEATURE [#34942605](https://www.pivotaltracker.com/story/show/34942605), [#34942671](https://www.pivotaltracker.com/story/show/34942671): Plugins: Add proof of concept that integrates with the backend and the staff frontend 
+* FEATURE [#40401639](https://www.pivotaltracker.com/story/show/40401639), [#49879423](https://www.pivotaltracker.com/story/show/49879423), [#40401755](https://www.pivotaltracker.com/story/show/40401755): Classification/Classification Terms: create, edit, delete, and allow for linking to Resources
+* FEATURE [#48947175](https://www.pivotaltracker.com/story/show/48947175): Display all "public" data in the public user interface when records are published
+* FEATURE [#48956939](https://www.pivotaltracker.com/story/show/48956939): Add "publish" button that recursively publishes all components, notes, etc. within Resources or Digital Objects
+* FEATURE [#49067191](https://www.pivotaltracker.com/story/show/49067191): Allow creation of digital objects from "add instance" form for Resources and Resource Components
+* FEATURE [#49568977](https://www.pivotaltracker.com/story/show/49568977), [#50239605](https://www.pivotaltracker.com/story/show/50239605): Additional User Defined Fields
+* BUG FIX [#50356825](https://www.pivotaltracker.com/story/show/50356825): Buttons to add new subrecords (e.g. User Defined) still add a new subrecord when clicked in their "disabled" state
+* BUG FIX [#50492611](https://www.pivotaltracker.com/story/show/50492611): Fix indexing error for digital objects that broke display in the public UI
+* BUG FIX [#50357025](https://www.pivotaltracker.com/story/show/50357025): User defined field form displaying '" "' or 'nil'
+* BUG FIX [#49807895](https://www.pivotaltracker.com/story/show/49807895): Digital Objects: show view causes frontend error (undefined method `linked_instances') when an object has a File Version
+
 ### 0.5.1 (May 10, 2013): 
 
 * FEATURE [#41457465](https://www.pivotaltracker.com/story/show/41457465), [#43512493](https://www.pivotaltracker.com/story/show/43512493), [#41508763](https://www.pivotaltracker.com/story/show/41508763): Allow deletion of all record types
