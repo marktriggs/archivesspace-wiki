@@ -1,6 +1,6 @@
 ### Current release
 
-* ArchivesSpace 0.5.2 (2013-05-24) - [archivesspace-0.5.2.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.2.zip)
+* ArchivesSpace 0.5.2-1 (2013-05-24) - [archivesspace-0.5.2-1.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.2-1.zip)
 
 ### Past releases
 
