@@ -1,3 +1,30 @@
+### 0.5.3 (June 7, 2013):
+
+* FEATURE [#49569691](https://www.pivotaltracker.com/story/show/49569691): Public interface: Display all components of Resources with ability to collapse and expand them 
+* FEATURE [#47584019](https://www.pivotaltracker.com/story/show/47584019): Display additional information in Resource/Digital Object tree view (e.g. instance and container information)
+* FEATURE [#43561173](https://www.pivotaltracker.com/story/show/43561173): Locations: add batch add functionality
+* FEATURE [#45367639](https://www.pivotaltracker.com/story/show/45367639): Revised Digital Object CSV import mapping
+* FEATURE [#48217179](https://www.pivotaltracker.com/story/show/48217179): Autocomplete "combobox" for long dropdown lists (e.g. language)
+* FEATURE [#45076989](https://www.pivotaltracker.com/story/show/45076989): Add Date subrecords to Agents as "dates of existence" and add Date subrecords to Name subrecords as "use dates" (for EAC-CPF/ISAAR(CPF) compliance)
+* FEATURE [#42024799](https://www.pivotaltracker.com/story/show/42024799): Capture and display audit information for all records (creation and modification date; user who created and last modified the record)
+* FEATURE [#47182143](https://www.pivotaltracker.com/story/show/47182143), [#49084609](https://www.pivotaltracker.com/story/show/49084609): EAD import: improve handling of components that have `@level` set to `otherlevel`
+* FEATURE [#50619287](https://www.pivotaltracker.com/story/show/50619287): Link a Classification or a Classification Term to an Accession 
+* FEATURE [#45975387](https://www.pivotaltracker.com/story/show/45975387): Add warning/alert for users using a "bronze"-level browser (e.g. IE 7)
+* FEATURE [#47583949](https://www.pivotaltracker.com/story/show/47583949): Display accession number in linked accessions section of resource record
+* FEATURE [#43515659](https://www.pivotaltracker.com/story/show/43515659): When looking at a record, I want to see all linked records, regardless of the direction of the link
+* FEATURE [#41427063](https://www.pivotaltracker.com/story/show/41427063): Display Agents and Subjects in browse view in alphabetical order
+* ENHANCEMENT [#47583829](https://www.pivotaltracker.com/story/show/47583829): Subjects: re-label "Add" button (in the Terms section) to "Add Subject Heading"
+* ENHANCEMENT [#47583925](https://www.pivotaltracker.com/story/show/47583925): Archival Objects: Remove the placeholder "New Archival Object" from the Title field
+* ENHANCEMENT [#47583529](https://www.pivotaltracker.com/story/show/47583529): Disable automatic pop-up of date entry widget 
+* BUG FIX [#49089827](https://www.pivotaltracker.com/story/show/49089827): Accessions: `title` not required
+* BUG FIX [#49272069](https://www.pivotaltracker.com/story/show/49272069): Protect enumeration values needed by the application
+* BUG FIX [#50617725](https://www.pivotaltracker.com/story/show/50617725): Show view for Digital Objects and Archival Objects not loading translations for enumerations  
+* BUG FIX [#45450543](https://www.pivotaltracker.com/story/show/45450543): Fix Rights date validation issue for Restriction Begin/Restriction End
+* BUG FIX [#49093799](https://www.pivotaltracker.com/story/show/49093799): Lock version-related errors aren't surfacing to alert box (only receiving "Internal Server Error")
+* BUG FIX [#48960499](https://www.pivotaltracker.com/story/show/48960499): Incorrectly formatted Accession Date throws an exception
+* BUG FIX [#50099927](https://www.pivotaltracker.com/story/show/50099927): Containers may only have one Location with a Location Status of "Current"
+
+
 ### 0.5.2-1 (May 28, 2013):
 
 * FEATURE [#43821087](https://www.pivotaltracker.com/story/show/43821087), [#49814363](https://www.pivotaltracker.com/story/show/49814363): "Rapid data entry" for Resources with sticky values (0.5.2)
