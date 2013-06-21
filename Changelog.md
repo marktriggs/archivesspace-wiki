@@ -1,3 +1,31 @@
+### 0.5.4 (June 21, 2013):
+
+* FEATURE [#46462289](https://www.pivotaltracker.com/story/show/46462289): Allow selection of multiple components to make moving easier
+* FEATURE [#46463877](https://www.pivotaltracker.com/story/show/46463877): Cut-and-paste functionality for moving components
+* FEATURE [#34395891](https://www.pivotaltracker.com/story/show/34395891): Merge two Subjects or two Agents
+* FEATURE [#49501343](https://www.pivotaltracker.com/story/show/49501343): Allow deletion of multiple records from browse views
+* FEATURE [#50544721](https://www.pivotaltracker.com/story/show/50544721): Updated EAD import/export mappings
+* FEATURE [#49570449](https://www.pivotaltracker.com/story/show/49570449): Format notes for public UI
+* FEATURE [#40401823](https://www.pivotaltracker.com/story/show/40401823): Public interface: display Classification/Classification Terms and linked Resources
+* FEATURE [#50622347](https://www.pivotaltracker.com/story/show/50622347): Extend plugins to support subrecords
+* FEATURE [#41456235](https://www.pivotaltracker.com/story/show/41456235): Optionally disable new user registration
+* FEATURE [#40968705](https://www.pivotaltracker.com/story/show/40968705): Grant users administrator privileges
+* FEATURE [#45369291](https://www.pivotaltracker.com/story/show/45369291): Public UI: Exclude components from browse/search results by default, but allow them to be added
+* FEATURE [#50619651](https://www.pivotaltracker.com/story/show/50619651): Exclude Agents that are associated with Users from the public UI
+* ENHANCEMENT [#51309515](https://www.pivotaltracker.com/story/show/51309515): Remove "bulk" as an option from date dropdowns for Agent/Date of Existence and Name/Use Dates
+* ENHANCEMENT [#46849311](https://www.pivotaltracker.com/story/show/46849311): Accessions: add more event types to "New Event" dropdown
+* ENHANCEMENT [#51374209](https://www.pivotaltracker.com/story/show/51374209): Make "creation" the default value for date label for Date subrecords associated with Accessions, Resources, Digital Objects, and their components unless a different default is set
+* ENHANCEMENT [#51373893](https://www.pivotaltracker.com/story/show/51373893): Change validation rules for source/authority ID for names and subjects
+* ENHANCEMENT [#49087643](https://www.pivotaltracker.com/story/show/49087643): Date subrecords: update validation rules
+* BUG FIX [#51600167](https://www.pivotaltracker.com/story/show/51600167): EAD import: Import Exception undefined method ``[]'` for nil:NilClass
+* BUG FIX [#51440183](https://www.pivotaltracker.com/story/show/51440183): `note_chronology.items[].event_date` should be a string
+* BUG FIX [#49010249](https://www.pivotaltracker.com/story/show/49010249): Deaccessions: description and reason both need to be TextFields
+* BUG FIX [#50987521](https://www.pivotaltracker.com/story/show/50987521): Translations for country enum not being loaded for Rights Statements edit view
+* BUG FIX [#51103167](https://www.pivotaltracker.com/story/show/51103167): Windows: archivesspace.bat doesn't check if Java is available
+* BUG FIX [#50810967](https://www.pivotaltracker.com/story/show/50810967): Add Location button at bottom of form (large "+") not adding new blank form (Chrome)
+* BUG FIX [#50890653](https://www.pivotaltracker.com/story/show/50890653): translation missing: en.container_location._frontend.action.add
+* BUG FIX [#50935213](https://www.pivotaltracker.com/story/show/50935213): Schema links not working in documentation
+
 ### 0.5.3 (June 7, 2013):
 
 * FEATURE [#49569691](https://www.pivotaltracker.com/story/show/49569691): Public interface: Display all components of Resources with ability to collapse and expand them 
