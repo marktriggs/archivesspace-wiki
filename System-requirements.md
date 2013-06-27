@@ -2,6 +2,7 @@
 
 * Java 1.6 or higher; Java 1.7+ recommended
 * MySQL (not required, but recommended for production use)
+* At least 512 MB RAM allocated to the application
 
 ArchivesSpace has been tested on Linux (Red Hat and Ubuntu), Mac OS X, and Windows.
 
