@@ -22,7 +22,7 @@ ArchivesSpace uses a tiered approach to browser support in order to guarantee ac
 | Browser | Bronze Support | Silver Support | Gold Support |
 | ------- | -------------- | -------------- | ------------ |
 | Internet Explorer 6 | Yes | No | No |
-| Internet Explorer 7+ | Yes | Yes | No |
+| Internet Explorer 7+ | Yes | No | No |
 | Firefox 7 and below | Yes | Yes | No |
 | Firefox 8+ | Yes | Yes | Yes |
 | Chrome | Yes | Yes | Yes |
