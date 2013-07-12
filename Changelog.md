@@ -56,7 +56,7 @@
 * ENHANCEMENT [#51374209](https://www.pivotaltracker.com/story/show/51374209): Make "creation" the default value for date label for Date subrecords associated with Accessions, Resources, Digital Objects, and their components unless a different default is set
 * ENHANCEMENT [#51373893](https://www.pivotaltracker.com/story/show/51373893): Change validation rules for source/authority ID for names and subjects
 * ENHANCEMENT [#49087643](https://www.pivotaltracker.com/story/show/49087643): Date subrecords: update validation rules
-* BUG FIX [#51600167](https://www.pivotaltracker.com/story/show/51600167): EAD import: Import Exception undefined method ``[]'` for nil:NilClass
+* BUG FIX [#51600167](https://www.pivotaltracker.com/story/show/51600167): EAD import: Import Exception ```undefined method ``[]' for nil:NilClass```
 * BUG FIX [#51440183](https://www.pivotaltracker.com/story/show/51440183): `note_chronology.items[].event_date` should be a string
 * BUG FIX [#49010249](https://www.pivotaltracker.com/story/show/49010249): Deaccessions: description and reason both need to be TextFields
 * BUG FIX [#50987521](https://www.pivotaltracker.com/story/show/50987521): Translations for country enum not being loaded for Rights Statements edit view
