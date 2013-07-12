@@ -1,3 +1,42 @@
+### 0.6.0 (July XX, 2013)
+
+* FEATURE [#53302169](https://www.pivotaltracker.com/story/show/37382313): Revised EAD export mappings
+* FEATURE [#37382313](https://www.pivotaltracker.com/story/show/37382313): Allow Administrators to temporarily become other Users (e.g. to assist with problems) 
+* FEATURE [#43535141](https://www.pivotaltracker.com/story/show/43535141): Add help system hooks
+* FEATURE [#50544775](https://www.pivotaltracker.com/story/show/50544775): Revised import/export maps for MARCXML
+* FEATURE [#37382411](https://www.pivotaltracker.com/story/show/37382411): Restore from backup documentation
+* FEATURE [#50149215](https://www.pivotaltracker.com/story/show/50149215): note_index: `items[].type` should be an enumeration
+* FEATURE [#46663003](https://www.pivotaltracker.com/story/show/46663003): Password reset script
+* FEATURE [#49501281](https://www.pivotaltracker.com/story/show/49501281), [#49501213](https://www.pivotaltracker.com/story/show/49501213): Allow transfer of Resources, Accessions, and Digital Objects from one Repository to another
+* FEATURE [#47583619](https://www.pivotaltracker.com/story/show/47583619): Make save work consistently across record types
+* FEATURE [#51589625](https://www.pivotaltracker.com/story/show/51589625): Public UI should collapse all components by default
+* FEATURE [#51656981](https://www.pivotaltracker.com/story/show/51656981): Display all instances in the public UI
+* FEATURE [#51950425](https://www.pivotaltracker.com/story/show/51950425): Render the structured note types (like ordered lists, outline, chronology, etc) in the public UI
+* FEATURE [#45096821](https://www.pivotaltracker.com/story/show/45096821): Display version of ArchivesSpace in UI
+* FEATURE [#43807567](https://www.pivotaltracker.com/story/show/43807567): Public UI: browse all published accessions and view them individually
+* FEATURE [#51841447](https://www.pivotaltracker.com/story/show/51841447): Add Component Unique Identifier and Language to RDE and reorder date elements
+* FEATURE [#47676335](https://www.pivotaltracker.com/story/show/47676335): Display an appropriate "title" for Locations and Repositories
+* FEATURE [#45553011](https://www.pivotaltracker.com/story/show/45553011): Merge two Resources or Digital Objects
+* FEATURE [#45399317](https://www.pivotaltracker.com/story/show/45399317): Interarrange text notes with structured notes
+* FEATURE [#46557865](https://www.pivotaltracker.com/story/show/46557865): Accession CSV import: create a new Event record with date expression = "unknown" when needed
+* FEATURE [#47583935](https://www.pivotaltracker.com/story/show/47583935): Resources: remove container summary
+* ENHANCEMENT [#51841995](https://www.pivotaltracker.com/story/show/51841995): Change Digital Object Component validations
+* ENHANCEMENT [#51918395](https://www.pivotaltracker.com/story/show/51918395): Add "Restrictions Apply" (boolean) and "Repository Processing Note" (TextField) to Resource Components
+* ENHANCEMENT [#52423903](https://www.pivotaltracker.com/story/show/52423903): Add `ingest_problem` TextField to abstract_note 
+* ENHANCEMENT [#51597445](https://www.pivotaltracker.com/story/show/51597445): Browse views for Agents, Subjects, etc. should display things like "Agent Name", "Term(s)," etc. instead of "Title"
+* ENHANCEMENT [#52261085](https://www.pivotaltracker.com/story/show/52261085): Real numbers (in user defined fields) should allow more decimal places
+* ENHANCEMENT [#51654063](https://www.pivotaltracker.com/story/show/51654063): Fields for URIs (`external_document.location` and `file_version.file_uri`) should be LongStrings
+* ENHANCEMENT [#51842215](https://www.pivotaltracker.com/story/show/51842215): Allow relator terms when linking an Agent to a Digital Object
+* BUG FIX [#52919239](https://www.pivotaltracker.com/story/show/52919239): EAD export timeouts
+* BUG FIX [#52929495](https://www.pivotaltracker.com/story/show/52929495): archivesspace.sh: Logs are not being directed to logs/archivesspace.out when started without parameters
+* BUG FIX [#52793621](https://www.pivotaltracker.com/story/show/52793621): EAD export: tags are escaped in notes, etc.
+* BUG FIX [#52807857](https://www.pivotaltracker.com/story/show/52807857): Accession CSV import: collection management records and user defined fields are not getting created
+* BUG FIX [#52810531](https://www.pivotaltracker.com/story/show/52810531): "Delete repository" action fails properly when it isn't empty, but still deletes all groups
+* BUG FIX [#52475527](https://www.pivotaltracker.com/story/show/52475527): Public UI: views for archival objects are not displaying component listings
+* BUG FIX [#52313731](https://www.pivotaltracker.com/story/show/52313731): Agents: "Add Related Agent" buttons don't work properly on Firefox 18/22
+* BUG FIX [#51527085](https://www.pivotaltracker.com/story/show/51527085): When merging values in an Enumeration, the untranslated value for the "merge into" value is displayed
+* BUG FIX [#51600167](https://www.pivotaltracker.com/story/show/51600167): Mousing over the top or bottom of the tree view pane causes the view to scroll automatically (Mac Chrome)
+
 ### 0.5.4 (June 21, 2013):
 
 * FEATURE [#46462289](https://www.pivotaltracker.com/story/show/46462289): Allow selection of multiple components to make moving easier
@@ -312,6 +351,8 @@
 * BUG FIX: Only users that are in a member of a group with the “manage this repository” setting enabled should be able to access the groups controller and edit groups
 * BUG FIX: Users with Repository Manager permissions cannot access groups configuration
 * BUG FIX: Read only users should not be able to directly access views to create new or edit existing groups
+
+
 
 ### 0.1.2 (October 1, 2012):
 * FEATURE: Declare source information for Agents (adding sources to list not yet implemented)
