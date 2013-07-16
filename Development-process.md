@@ -1,6 +1,6 @@
 This is an overview of the development process for ArchivesSpace, based upon the process used during the grant-funded development period. This documentation is written from the perspective of the Product Owner, and is designed to complement the documentation about the [[Release process]].
 
-## Sprints, Cycles and Versioning
+### Sprints, Cycles and Versioning
 
 ArchivesSpace uses the Scrum development methodology to prioritize features for a given sprint and cycle. During our initial implementation phase, we used two week sprints, with four sprints to a cycle. A cycle was intended to be equivalent to a "minor" release; for example, we released the first cycle as ArchivesSpace 0.1.0. Subsequent sprints were equivalent to a pre-release "build", so for example the first sprint of the second cycle concluded with the release of ArchivesSpace 0.1.1. At the end of the second cycle, we released ArchivesSpace 0.2.0, and so forth.
 
