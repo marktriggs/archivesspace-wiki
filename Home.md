@@ -11,7 +11,7 @@
 * **[Running ArchivesSpace with load balancing](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
 
 ## Community user support resources
-* **[ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)**: primarily for developers
+* **[ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)**: primarily for developers, but limited support may be available from community members
 
 ## Developer resources
 * **[API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)**
