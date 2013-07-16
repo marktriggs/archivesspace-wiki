@@ -2,37 +2,22 @@
 
 [![Build Status](https://travis-ci.org/archivesspace/archivesspace.png?branch=master)](https://travis-ci.org/archivesspace/archivesspace) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
-The [ArchivesSpace](http://www.archivesspace.org/) project is in an alpha release stage.  This is the page you can come to for directions about how to install and help us test this tool during the alpha and beta development phases.
+## Downloading, installing and running ArchivesSpace
 
-## [[Downloads]]
-Download current or past releases of ArchivesSpace. For access to source code, see below.
+* **[[Downloads]]** - Current and past releases of ArchivesSpace
+* **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
+* **[[System requirements]]** - Overview of what you'll need to install ArchivesSpace and which web browsers are supported.
+* **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)**  
+* **[Running ArchivesSpace with load balancing](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
 
-## [[Changelog]]
-Release history for ArchivesSpace, summarizing implemented features, fixed bugs, and known issues.
+## Community user support resources
+* **[ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)**: primarily for developers
 
-## [[System requirements]] 
-An overview for what you'll need to install ArchivesSpace and and which web browsers are supported.
+## Developer resources
+* **[API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)**
+* **[Build system documentation](https://github.com/hudmol/archivesspace/blob/master/build/README.md)**
 
-## [Quick start](https://github.com/archivesspace/archivesspace/#readme)
-Set up an instance of the application, using either the embedded database or MySQL. See the
-
-## Other Deployment Information
-* [Running ArchivesSpace with load balancing](https://github.com/hudmol/archivesspace/tree/master/clustering#readme)
-* For versions 0.4.1 and earlier only: 
-    * [[Standalone JAR and mysql]]: Run the standalone jar (embedded jetty) with a MySQL database. (likely out of date)
-    * [[Installing in Tomcat and Mysql]]: How to deploy `.war` on Apache Tomcat using MySQL.
-
-## [ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)
-Join our community of archivists and technologists working together to build a next-generation archives management tool. 
-
-## Technical Documentation
-
-* [API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/): Includes class, method, [backend API](http://archivesspace.github.com/archivesspace/doc/file.API.html), data model, and other developer documentation
-* [ASpace README](https://github.com/archivesspace/archivesspace/blob/master/README.md): information on building the application from source
-* [[Migration Framework]]: additional information on import and export from the command line
-* [MySQL schema](https://gist.github.com/3562410)
-
-## Source Code
+### Source Code
 The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable-for-testing release of the code.  New versions are released every two weeks.
 
 The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository is the upstream repository with active development.
