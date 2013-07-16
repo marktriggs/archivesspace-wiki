@@ -16,6 +16,7 @@
 ## Developer resources
 * **[API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)**
 * **[Build system documentation](https://github.com/hudmol/archivesspace/blob/master/build/README.md)**
+* **[[Release process]]**
 
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
 
