@@ -1,4 +1,4 @@
-## ArchivesSpace: Building a next-generation archives management tool
+**ArchivesSpace: Building a next-generation archives management tool**
 
 [![Build Status](https://travis-ci.org/archivesspace/archivesspace.png?branch=master)](https://travis-ci.org/archivesspace/archivesspace) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
