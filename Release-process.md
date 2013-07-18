@@ -12,9 +12,9 @@ The Product Owner should ensure that all features that have been delivered are m
 
 ### Update developer documentation
 
-The Scrum Master should ensure that the `gh-pages` branch contains the most up-to-date version of the developer documentation (e.g. API docs, models, etc.) generated using `yard`. 
+The Scrum Master should ensure that the `gh-pages` branch contains the most up-to-date version of the developer documentation (e.g. API docs, models, etc.) generated using YARD:
 
-**BH: INSERT STEPS HERE**
+    $ build/run doc:yard
 
 ### Tag release
 
