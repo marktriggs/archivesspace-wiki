@@ -1,4 +1,4 @@
-### 0.6.0 (July XX, 2013)
+### 0.6.1 (July XX, 2013)
 
 * FEATURE [#53302169](https://www.pivotaltracker.com/story/show/37382313): Revised EAD export mappings
 * FEATURE [#37382313](https://www.pivotaltracker.com/story/show/37382313): Allow Administrators to temporarily become other Users (e.g. to assist with problems) 
