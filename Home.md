@@ -4,7 +4,7 @@
 
 ## Downloading, installing and running ArchivesSpace
 
-* **[[Downloads]]** - Current and past releases of ArchivesSpace
+* **[Releases](https://github.com/archivesspace/archivesspace/releases)** - Download the latest release (see below for old downloads page)
 * **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
 * **[[System requirements]]** - Overview of what you'll need to install ArchivesSpace and which web browsers are supported.
 * **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)**  
@@ -25,3 +25,10 @@ Additional developer documentation can be found throughout the application's cod
 The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable-for-testing release of the code.  New versions are released every two weeks.
 
 The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository is the upstream repository with active development.
+
+## Historical information
+
+* [[Downloads]] - contains download links for versions 0.5.4 and lower
+* [[Installing in tomcat and mysql]], [[Standalone jar and mysql]] - historical deployment information
+* [[Installing on Linux]]
+* [[Quick start (0.4.1 and earlier)]]
