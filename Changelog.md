@@ -1,4 +1,4 @@
-### 0.6.1 (July 22, 2013)
+### 0.6.2 (July 23, 2013)
 
 * FEATURE [#53302169](https://www.pivotaltracker.com/story/show/37382313): Revised EAD export mappings
 * FEATURE [#37382313](https://www.pivotaltracker.com/story/show/37382313): Allow Administrators to temporarily become other Users (e.g. to assist with problems) 
@@ -27,6 +27,7 @@
 * ENHANCEMENT [#52261085](https://www.pivotaltracker.com/story/show/52261085): Real numbers (in user defined fields) should allow more decimal places
 * ENHANCEMENT [#51654063](https://www.pivotaltracker.com/story/show/51654063): Fields for URIs (`external_document.location` and `file_version.file_uri`) should be LongStrings
 * ENHANCEMENT [#51842215](https://www.pivotaltracker.com/story/show/51842215): Allow relator terms when linking an Agent to a Digital Object
+* BUG FIX [#53851543](https://www.pivotaltracker.com/story/show/53851543): Permissions should allow repository managers to change user groups
 * BUG FIX [#53718557](https://www.pivotaltracker.com/story/show/53718557): Users can access import before a repository has been created
 * BUG FIX [#53737451](https://www.pivotaltracker.com/story/show/53737451): Exports fail when using built application (not devservers) because of incorrect path for locale file 
 * BUG FIX [#53331303](https://www.pivotaltracker.com/story/show/53331303): Editing a recprd with an Agent linked with a subject role w/ term subdivisions doesn't display form in Edit view when reopening the record
