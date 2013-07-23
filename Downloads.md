@@ -1,13 +1,14 @@
-### Current release
+### Current and recent releases
+
+**Please see the [Releases](https://github.com/archivesspace/archivesspace/releases) page.**
+
+### Past releases (0.5.4 and earlier)
 
 * ArchivesSpace 0.5.4 (2013-06-21) - [archivesspace-0.5.4.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.4.zip)
-
-### Past releases
 
 * ArchivesSpace 0.5.3 (2013-06-07) - [archivesspace-0.5.3.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.3.zip)
 
 * ArchivesSpace 0.5.2-1 (2013-05-28) - [archivesspace-0.5.2-1.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.2-1.zip)
-
 
 * ArchivesSpace 0.5.1 (2013-05-10) - [archivesspace-0.5.1.zip](https://s3.amazonaws.com/archivesspace/public-files/archivesspace.v0.5.1.zip)
 
