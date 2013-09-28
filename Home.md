@@ -23,7 +23,7 @@
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
 
 ### Source Code
-The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable-for-testing release of the code.  New versions are released every two weeks.
+The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable-for-testing release of the code. During the initial development phase, new versions were released every two weeks.
 
 The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository is the upstream repository with active development.
 
