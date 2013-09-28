@@ -1,3 +1,18 @@
+### 1.0.0 (September 30, 2013)
+
+* FEATURE: XSLT stylesheets for EAD to HTML, EAD to PDF, and EAC-CPF to HTML
+* FEATURE: More sample plugins
+* FEATURE [#20](http://github.com/archivesspace/archivesspace/issues/20): Containers: Add container extent property 
+* FEATURE/BUG FIX [#55664088](https://www.pivotaltracker.com/story/show/55664088), [#21](http://github.com/archivesspace/archivesspace/issues/21): Make locations global
+* ENHANCEMENT [#22](http://github.com/archivesspace/archivesspace/issues/22): Rename and cleanup groups
+* ENHANCEMENT [#5](http://github.com/archivesspace/archivesspace/issues/5), [#6](http://github.com/archivesspace/archivesspace/issues/6), [#12](http://github.com/archivesspace/archivesspace/issues/12) [#15](http://github.com/archivesspace/archivesspace/issues/15), [#16](http://github.com/archivesspace/archivesspace/issues/16), [#18](http://github.com/archivesspace/archivesspace/issues/18) [#19](http://github.com/archivesspace/archivesspace/issues/19), [#23](http://github.com/archivesspace/archivesspace/issues/23): EAD import/export mapping changes
+* ENHANCEMENT [#7](http://github.com/archivesspace/archivesspace/issues/7): RDE locale: Change "Add Children" to "Save Rows"
+* ENHANCEMENT [#8](http://github.com/archivesspace/archivesspace/issues/8), [#14](http://github.com/archivesspace/archivesspace/issues/14): Make Travis CI build more robust 
+* BUG FIX [#24](http://github.com/archivesspace/archivesspace/issues/24): Ordered batch imports
+* BUG FIX [#10](http://github.com/archivesspace/archivesspace/issues/10): Fix plugin loading
+* BUG FIX [#17](http://github.com/archivesspace/archivesspace/issues/17): Batch file not working in Windows
+
+
 ### 0.6.2 (July 23, 2013)
 
 * FEATURE [#53302169](https://www.pivotaltracker.com/story/show/37382313): Revised EAD export mappings
