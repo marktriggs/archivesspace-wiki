@@ -1,4 +1,4 @@
-**ArchivesSpace: Building a next-generation archives management tool**
+**ArchivesSpace: a next-generation archives management tool**
 
 [![Build Status](https://travis-ci.org/archivesspace/archivesspace.png?branch=master)](https://travis-ci.org/archivesspace/archivesspace) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
@@ -23,9 +23,9 @@
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
 
 ### Source Code
-The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable-for-testing release of the code. During the initial development phase, new versions were released every two weeks.
+The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable of the code. During the initial development phase, new versions were released every two weeks.
 
-The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository is the upstream repository with active development.
+The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository has been the upstream repository with active development.
 
 ## Historical information
 
