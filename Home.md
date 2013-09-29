@@ -8,6 +8,7 @@
 * **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)** - includes information on system requirements.
 * **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
 * **[Running ArchivesSpace with load balancing](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
+* **[[Supported browsers]]**
 
 ## Community user support resources
 * **[ArchivesSpace Google Group](http://groups.google.com/group/archivesspace)**: primarily for developers, but limited support may be available from community members
