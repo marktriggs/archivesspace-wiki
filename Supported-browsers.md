@@ -1,13 +1,3 @@
-## Requirements for Installation
-
-* Java 1.6 or higher; Java 1.7+ recommended
-* MySQL (not required, but **strongly** recommended for production use)
-* At least 512 MB RAM allocated to the application
-
-ArchivesSpace has been tested on Linux (Red Hat and Ubuntu), Mac OS X, and Windows.
-
-## Browser Requirements for Staff and Public Users
-
 ArchivesSpace uses a tiered approach to browser support in order to guarantee accessibility to a broad base of users and cutting edge functionality to power users.
 
 ### Support Tiers
