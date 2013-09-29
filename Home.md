@@ -5,9 +5,8 @@
 ## Downloading, installing and running ArchivesSpace
 
 * **[Releases](https://github.com/archivesspace/archivesspace/releases)** - Download the latest release (see below for old downloads page)
+* **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)** - includes information on system requirements.
 * **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
-* **[[System requirements]]** - Overview of what you'll need to install ArchivesSpace and which web browsers are supported.
-* **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)**  
 * **[Running ArchivesSpace with load balancing](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
 
 ## Community user support resources
