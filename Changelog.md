@@ -1,3 +1,12 @@
+### 1.0.1 (November 1, 2013)
+* FEATURE [#58853932](https://www.pivotaltracker.com/story/show/58853932): Check database encoding on startup
+* FEATURE [#58859922](https://www.pivotaltracker.com/story/show/58859922): Add support for MySQL binary logging
+* FEATURE [#59989502](https://www.pivotaltracker.com/story/show/59989502): Allow staff frontend, public frontend, and indexer to be disabled using configuration variables
+* ENHANCEMENT [#59852116](https://www.pivotaltracker.com/story/show/59852116): Upgrade to JRuby 1.7.6
+* ENHANCEMENT [#58921744](https://www.pivotaltracker.com/story/show/58921744): Enable documentation links by default
+* BUG FIX [#58859886](https://www.pivotaltracker.com/story/show/58859886): Solr index is not being added to backups
+* KNOWN ISSUE: On Windows, startup fails because ArchivesSpace cannot find gems when pathname contains spaces
+
 ### 1.0.0 (September 30, 2013)
 
 * FEATURE: XSLT stylesheets for EAD to HTML, EAD to PDF, and EAC-CPF to HTML
