@@ -6,6 +6,7 @@
 * ENHANCEMENT [#58921744](https://www.pivotaltracker.com/story/show/58921744): Enable documentation links by default
 * BUG FIX [#58859886](https://www.pivotaltracker.com/story/show/58859886): Solr index is not being added to backups
 * KNOWN ISSUE: On Windows, startup fails because ArchivesSpace cannot find gems when pathname contains spaces
+    * To resolve, move ArchivesSpace to a directory path that does not contain spaces.
 
 ### 1.0.0 (September 30, 2013)
 
