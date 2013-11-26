@@ -6,8 +6,8 @@
 
 * **[Releases](https://github.com/archivesspace/archivesspace/releases)** - Download the latest release (see below for old downloads page)
 * **[Getting Started](https://github.com/archivesspace/archivesspace/#getting-started)** - includes information on system requirements.
-* **[Running ArchivesSpace under Tomcat](https://github.com/archivesspace/archivesspace/blob/master/README_TOMCAT.md)
-* **[Changelog]** - Release history, summarizing implemented features, fixed bugs, and known issues
+* **[Running ArchivesSpace under Tomcat](https://github.com/archivesspace/archivesspace/blob/master/README_TOMCAT.md)** - includes instructions on how to run Tomcat as a Windows service
+* **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
 * **[Running ArchivesSpace with load balancing](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
 * **[[Supported browsers]]**
 
