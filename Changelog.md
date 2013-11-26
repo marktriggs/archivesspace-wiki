@@ -1,3 +1,19 @@
+### 1.0.2 (November 2X, 2013)
+* FEATURE [#51853907](https://www.pivotaltracker.com/story/show/51853907), [#51854067](https://www.pivotaltracker.com/story/show/51854067): Rapid data entry: Allow filling a column witha single value or sequence, reordering of columns, and addition of multiple rows in a single action
+* FEATURE [#60634014](https://www.pivotaltracker.com/story/show/60634014): Provide links to imported records when an import process successfully completes
+* FEATURE [#59331638](https://www.pivotaltracker.com/story/show/59331638): Change default filenamefor exported records
+* BUG FIX [#60815988](https://www.pivotaltracker.com/story/show/60815988): Migrated records cannot be saved when a user tries to edit them after the migration process
+* BUG FIX [#61015848](https://www.pivotaltracker.com/story/show/61015848): Frontend should preserve external id records
+* BUG FIX [#60918200](https://www.pivotaltracker.com/story/show/60918200): When editing an existing user's properties (e.g. name fields, etc.), changed properties do not save properly
+* BUG FIX [#61363116](https://www.pivotaltracker.com/story/show/61363116): Fix GEM_HOME/GEM_PATH conflicts
+* BUG FIX [#59972370](https://www.pivotaltracker.com/story/show/59972370): Frontend cookies are shared between multiple applications running on same hostname but with different ports
+* BUG FIX [#58091990](https://www.pivotaltracker.com/story/show/58091990): MARCXML import: import fails if 040$e is not present
+* BUG FIX [#54842540](https://www.pivotaltracker.com/story/show/54842540): When a modal/dialog is active, focus is not moved to the dialog
+* BUG FIX: Ensure CSRF toke is appended to AJAX POST requests
+* KNOWN ISSUE: On Windows, startup fails because ArchivesSpace cannot find gems when pathname contains spaces
+    * To resolve, move ArchivesSpace to a directory path that does not contain spaces.
+
+
 ### 1.0.1 (November 1, 2013)
 * FEATURE [#58853932](https://www.pivotaltracker.com/story/show/58853932): Check database encoding on startup
 * FEATURE [#58859922](https://www.pivotaltracker.com/story/show/58859922): Add support for MySQL binary logging
