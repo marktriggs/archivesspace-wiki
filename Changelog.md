@@ -1,7 +1,7 @@
 ### 1.0.2 (November 26, 2013)
 * FEATURE [#51853907](https://www.pivotaltracker.com/story/show/51853907), [#51854067](https://www.pivotaltracker.com/story/show/51854067): Rapid data entry: Allow filling a column with a single value or sequence, reordering of columns, and addition of multiple rows in a single action
 * FEATURE [#60634014](https://www.pivotaltracker.com/story/show/60634014): Provide links to imported records when an import process successfully completes
-* FEATURE [#59331638](https://www.pivotaltracker.com/story/show/59331638): Change default filenamefor exported records
+* FEATURE [#59331638](https://www.pivotaltracker.com/story/show/59331638): Change default filename for exported records
 * BUG FIX [#60815988](https://www.pivotaltracker.com/story/show/60815988): Migrated records cannot be saved when a user tries to edit them after the migration process
 * BUG FIX [#61015848](https://www.pivotaltracker.com/story/show/61015848): Frontend should preserve external id records
 * BUG FIX [#60918200](https://www.pivotaltracker.com/story/show/60918200): When editing an existing user's properties (e.g. name fields, etc.), changed properties do not save properly
