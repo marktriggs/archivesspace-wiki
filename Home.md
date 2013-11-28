@@ -35,10 +35,3 @@ Additional developer documentation can be found throughout the application's cod
 The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable of the code. During the initial development phase, which ended in August 2013, new versions were released every two weeks.
 
 The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository isthe upstream repository with active development.
-
-## Historical information
-
-* [[Downloads]] - contains download links for versions 0.5.4 and lower
-* [[Installing in tomcat and mysql]], [[Standalone jar and mysql]] - historical deployment information
-* [[Installing on Linux]]
-* [[Quick start (0.4.1 and earlier)]]
