@@ -34,4 +34,4 @@ Additional developer documentation can be found throughout the application's cod
 ### Source Code
 The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable of the code. During the initial development phase, which ended in August 2013, new versions were released every two weeks.
 
-The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository isthe upstream repository with active development.
+The [`hudmol/archivesspace`](https://github.com/hudmol/archivesspace) repository is the upstream repository with active development.
