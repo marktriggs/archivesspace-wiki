@@ -1,3 +1,14 @@
+### 1.0.4 ( January 14, 2014 ) 
+* STORY TYPE [#Id](https://www.pivotaltracker.com/s/projects/386247/stories/Id): Story
+* BUG FIX [#60382270](https://www.pivotaltracker.com/s/projects/386247/stories/60382270): Administrator status for LDAP-authenticated users does not persist
+* FEATURE [#51841569](https://www.pivotaltracker.com/s/projects/386247/stories/51841569): Make required fields more apparent in rapid data entry
+* FEATURE [#55427732](https://www.pivotaltracker.com/s/projects/386247/stories/55427732): As a researcher I want to view detailed Agent records in the UI (presented as "Names")
+* FEATURE [#55427652](https://www.pivotaltracker.com/s/projects/386247/stories/55427652): As a researcher, I want to view biographical/historical statements associated with Agents when they are linked to Collections in the public UI
+* FEATURE [#51595757](https://www.pivotaltracker.com/s/projects/386247/stories/51595757): As a researcher, I want to view information about agents in the public UI
+* FEATURE [#60627400](https://www.pivotaltracker.com/s/projects/386247/stories/60627400): EAD export should allow an option to export with or without components/subrecords that have "publish" set to false
+* FEATURE [#61070176](https://www.pivotaltracker.com/s/projects/386247/stories/61070176): Provide guidance on how to deploy application using HTTPS
+
+
 ### 1.0.2 (November 26, 2013)
 * FEATURE [#51853907](https://www.pivotaltracker.com/story/show/51853907), [#51854067](https://www.pivotaltracker.com/story/show/51854067): Rapid data entry: Allow filling a column with a single value or sequence, reordering of columns, and addition of multiple rows in a single action
 * FEATURE [#60634014](https://www.pivotaltracker.com/story/show/60634014): Provide links to imported records when an import process successfully completes
