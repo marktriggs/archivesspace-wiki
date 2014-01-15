@@ -1,5 +1,4 @@
 ### 1.0.4 ( January 14, 2014 ) 
-* STORY TYPE [#Id](https://www.pivotaltracker.com/s/projects/386247/stories/Id): Story
 * BUG FIX [#60382270](https://www.pivotaltracker.com/s/projects/386247/stories/60382270): Administrator status for LDAP-authenticated users does not persist
 * FEATURE [#51841569](https://www.pivotaltracker.com/s/projects/386247/stories/51841569): Make required fields more apparent in rapid data entry
 * FEATURE [#55427732](https://www.pivotaltracker.com/s/projects/386247/stories/55427732): As a researcher I want to view detailed Agent records in the UI (presented as "Names")
