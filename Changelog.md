@@ -1,11 +1,14 @@
 ### 1.0.4 ( January 14, 2014 ) 
-* BUG FIX [#60382270](https://www.pivotaltracker.com/s/projects/386247/stories/60382270): Administrator status for LDAP-authenticated users does not persist
+* FEATURE [#58092128](https://www.pivotaltracker.com/s/projects/386247/stories/58092128), [#38630637](https://www.pivotaltracker.com/s/projects/386247/stories/38630637): Improved feedback
+* FEATURE [#61443850](https://www.pivotaltracker.com/s/projects/386247/stories/61443850), [#61444090](https://www.pivotaltracker.com/s/projects/386247/stories/61444090), [#37075873](https://www.pivotaltracker.com/s/projects/386247/stories/37075873) : Support for batch importing
 * FEATURE [#51841569](https://www.pivotaltracker.com/s/projects/386247/stories/51841569): Make required fields more apparent in rapid data entry
-* FEATURE [#55427732](https://www.pivotaltracker.com/s/projects/386247/stories/55427732): As a researcher I want to view detailed Agent records in the UI (presented as "Names")
-* FEATURE [#55427652](https://www.pivotaltracker.com/s/projects/386247/stories/55427652): As a researcher, I want to view biographical/historical statements associated with Agents when they are linked to Collections in the public UI
-* FEATURE [#51595757](https://www.pivotaltracker.com/s/projects/386247/stories/51595757): As a researcher, I want to view information about agents in the public UI
-* FEATURE [#60627400](https://www.pivotaltracker.com/s/projects/386247/stories/60627400): EAD export should allow an option to export with or without components/subrecords that have "publish" set to false
-* FEATURE [#61070176](https://www.pivotaltracker.com/s/projects/386247/stories/61070176): Provide guidance on how to deploy application using HTTPS
+* FEATURE [#55427732](https://www.pivotaltracker.com/s/projects/386247/stories/55427732), [#55427652](https://www.pivotaltracker.com/s/projects/386247/stories/55427652), [#51595757](https://www.pivotaltracker.com/s/projects/386247/stories/51595757): Update to Agent records UI.
+* FEATURE [#60627400](https://www.pivotaltracker.com/s/projects/386247/stories/60627400): EAD export option to export with or without components/subrecords that have "publish" set to false
+* FEATURE [#52048235](https://www.pivotaltracker.com/s/projects/386247/stories/52048235): Add close button for alerts
+* FEATURE [#49804939](https://www.pivotaltracker.com/s/projects/386247/stories/49804939): Toggling from public UI to staff UI
+* FEATURE [#44663711](https://www.pivotaltracker.com/s/projects/386247/stories/44663711): Add customised import / export cross walks
+* FEATURE [#47691271](https://www.pivotaltracker.com/s/projects/386247/stories/47691271):  Return to context record after adding an event record 
+* BUG FIX [#60382270](https://www.pivotaltracker.com/s/projects/386247/stories/60382270): Administrator status for LDAP-authenticated users does not persist
 
 
 ### 1.0.2 (November 26, 2013)
