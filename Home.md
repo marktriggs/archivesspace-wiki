@@ -1,6 +1,6 @@
 **ArchivesSpace: a next-generation archives management tool - <http://www.archivesspace.org/>**
 
-[![Build Status](https://travis-ci.org/archivesspace/archivesspace.png?branch=master)](https://travis-ci.org/archivesspace/archivesspace) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
+[![Build Status](http://54.187.182.145:8080/job/ArchivesSpace/badge/icon)](http://54.187.182.145:8080/job/ArchivesSpace/) [![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
 ## Downloading, installing and running ArchivesSpace
 
