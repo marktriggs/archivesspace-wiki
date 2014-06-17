@@ -18,7 +18,7 @@
 * Documentation
     * **[User manual (ArchivesSpace members only)](https://docs.archivesspace.org)**
     * **[Import/Export Mappings](http://www.archivesspace.org/importexport)**
-    * **[Migration guidelines](http://archivesspace.org/migration)**
+    * **[Migration guidelines](http://archivesspace.org/migrations)**
 
 ## Developer resources
 * **[API and Architecture Documentation](http://archivesspace.github.com/archivesspace/doc/)**
