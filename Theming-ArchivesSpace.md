@@ -1,7 +1,3 @@
-# Theming ArchivesSpace
----------------------
-
-
 ## I just want to change some of the labels and messages!
 
 All the messages and labels are stored in a locales file, which is part of the [Rails Internationalization (I18n)](http://guides.rubyonrails.org/i18n.html) API. For example, all the English labels are store in a file in the config/locales/en.yml file. 
