@@ -2,8 +2,8 @@
 
 All the messages and labels are stored in a locales file, which is part of the [Rails Internationalization (I18n)](http://guides.rubyonrails.org/i18n.html) API. For example, all the English labels are store in a file in the config/locales/en.yml file. 
  
-You can see these files here: 
-[ Staff Frontend Application] (https://github.com/archivesspace/archivesspace/tree/master/frontend/config/locales)
+These files are available for both the 
+[ Staff Frontend Application] (https://github.com/archivesspace/archivesspace/tree/master/frontend/config/locales) and
 [Public Application](https://github.com/archivesspace/archivesspace/tree/master/public/config/locales)
 
 These values are pulled into the views using the I18n.t() methoded, like  I18n.t("brand.welcome_message"). 
