@@ -1,11 +1,11 @@
 ## I just want to change some of the labels and messages!
 
-All the messages and labels are stored in locales files, which is part of the [Rails Internationalization (I18n)](http://guides.rubyonrails.org/i18n.html) API. For example, all the English labels are store in a file in the config/locales/en.yml file. 
+All the messages and labels are stored in locales files, which is part of the [Rails Internationalization (I18n)](http://guides.rubyonrails.org/i18n.html) API. For example, a convention of the Rails framework stores all the English labels in a file called config/locales/en.yml.
  
-The source files are available for both the 
+You can see the source files for both the 
 [ Staff Frontend Application] (https://github.com/archivesspace/archivesspace/tree/master/frontend/config/locales) and
 [Public Application](https://github.com/archivesspace/archivesspace/tree/master/public/config/locales)
-There is also a ["common" locale file](https://github.com/archivesspace/archivesspace/blob/master/common/locales/en.yml) for some values used on both applications. 
+There is also a [common locale file](https://github.com/archivesspace/archivesspace/blob/master/common/locales/en.yml) for some values used throughout the ArchivesSpace applications. 
 
 These values are pulled into the views using the I18n.t() methoded, like  I18n.t("brand.welcome_message"). 
 
