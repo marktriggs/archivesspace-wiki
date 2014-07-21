@@ -2,13 +2,16 @@
 
 All the messages and labels are stored in a locales file, which is part of the [Rails Internationalization (I18n)](http://guides.rubyonrails.org/i18n.html) API. For example, all the English labels are store in a file in the config/locales/en.yml file. 
  
-These files are available for both the 
+The source files are available for both the 
 [ Staff Frontend Application] (https://github.com/archivesspace/archivesspace/tree/master/frontend/config/locales) and
 [Public Application](https://github.com/archivesspace/archivesspace/tree/master/public/config/locales)
+There is also a ["common" locale file](https://github.com/archivesspace/archivesspace/blob/master/common/locales/en.yml) for some values used on both applications. 
 
 These values are pulled into the views using the I18n.t() methoded, like  I18n.t("brand.welcome_message"). 
 
-You can override these values using the plugins directory. For example, if you want to change the welcome message on the public frontend, make a file in your ArchivesSpace distribution called 'plugins/local/public/locales/en.yml' and put the following values: 
+If the value you want to override is in the common locale file (the digital object title, for example) , you can change this by simply editing the locales/en.yml file in your ArchivesSpace distribution home directory. A restart is required to have the changes take effect.  
+
+If the value you want to change is in either the public or staff specific en.yml files,  you can override these values using the plugins directory. For example, if you want to change the welcome message on the public frontend, make a file in your ArchivesSpace distribution called 'plugins/local/public/locales/en.yml' and put the following values: 
 
 	en:
 		brand:
@@ -19,8 +22,6 @@ You can override these values using the plugins directory. For example, if you w
 If you restart ArchivesSpace, these values will take effect.
 
 If you're using a different language, simply swap out the en.yml for something else ( like fr.yml ) and update locale setting in the config.rb file ( i.e.,  AppConfig[:locale] = :fr ) 
-
-
 
 ## I just want to change a few things on the pages!!
 
