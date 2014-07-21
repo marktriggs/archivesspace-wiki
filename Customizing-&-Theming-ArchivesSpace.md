@@ -9,7 +9,7 @@ There is also a [common locale file](https://github.com/archivesspace/archivessp
 
 These values are pulled into the views using the I18n.t() methoded, like  I18n.t("brand.welcome_message"). 
 
-If the value you want to override is in the common locale file (the digital object title, for example) , you can change this by simply editing the locales/en.yml file in your ArchivesSpace distribution home directory. A restart is required to have the changes take effect.  
+If the value you want to override is in the common locale file (like the "digital object title" field label, for example) , you can change this by simply editing the locales/en.yml file in your ArchivesSpace distribution home directory. A restart is required to have the changes take effect.  
 
 If the value you want to change is in either the public or staff specific en.yml files,  you can override these values using the plugins directory. For example, if you want to change the welcome message on the public frontend, make a file in your ArchivesSpace distribution called 'plugins/local/public/locales/en.yml' and put the following values: 
 
