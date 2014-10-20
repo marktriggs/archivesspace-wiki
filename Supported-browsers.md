@@ -14,6 +14,7 @@ ArchivesSpace uses a tiered approach to browser support in order to guarantee ac
 | ------- | -------------- | -------------- | ------------ |
 | Internet Explorer 6-7 | Yes | No | No |
 | Internet Explorer 8+ | Yes | Yes | No |
+| Internet Explorer 11+ | Yes | Yes | Yes |
 | Firefox 7 and below | Yes | Yes | No |
 | Firefox 8+ | Yes | Yes | Yes |
 | Chrome | Yes | Yes | Yes |
