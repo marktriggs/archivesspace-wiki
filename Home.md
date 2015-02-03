@@ -26,7 +26,7 @@
 * **[Developer screencasts](http://www.youtube.com/playlist?list=PLJFitFaE9AY_DDlhl3Kq_vFeX27F1yt6I)**
 * **[[Development process]]**
 * **[[Release process]]** 
-* **[Pivotal Tracker project](https://www.pivotaltracker.com/s/projects/386247/)**
+* **[Jira project](single, bulk, inclusive, range)**
 * **[Travis-CI project](http://travis-ci.org/archivesspace/archivesspace)**
 
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
