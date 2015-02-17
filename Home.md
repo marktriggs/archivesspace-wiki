@@ -31,5 +31,5 @@
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
 
 ### Source Code
-The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable of the code.
+The master branch of the [`archivesspace/archivesspace`](https://github.com/archivesspace/archivesspace) repository is the current stable branch of the code.
 
