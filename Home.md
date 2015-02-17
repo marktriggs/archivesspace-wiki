@@ -9,7 +9,6 @@
 * **[[Supported browsers]]**
 * **[Running ArchivesSpace under Tomcat](https://github.com/archivesspace/archivesspace/blob/master/README_TOMCAT.md)** - includes instructions on how to run Tomcat as a Windows service
 * **[Running ArchivesSpace with load balancing and multitenant configuration](https://github.com/archivesspace/archivesspace/tree/master/clustering#readme)**
-* **[[Changelog]]** - Release history, summarizing implemented features, fixed bugs, and known issues
 
 ## User support resources
 * Email lists
