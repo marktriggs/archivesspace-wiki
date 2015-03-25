@@ -3,7 +3,7 @@
 [![Build Status](http://54.187.182.145:8080/buildStatus/icon?job=ArchivesSpace)](http://54.187.182.145:8080/job/ArchivesSpace/)[![Code Climate](https://codeclimate.com/github/archivesspace/archivesspace.png)](https://codeclimate.com/github/archivesspace/archivesspace)
 
 * **[Releases](https://github.com/archivesspace/archivesspace/releases)** - Download the latest release (see below for old downloads page)
-* **[Confluence](https://archivesspace.atlassian.net/wiki)** - ArchivesSpace Wiki: more information for developers, contributors, users, and administrators.
+* **[Confluence](https://archivesspace.atlassian.net/wiki/display/ADC/ArchivesSpace)** - ArchivesSpace Wiki: more information for developers, contributors, users, and administrators.
 
 ### README Documents
 
