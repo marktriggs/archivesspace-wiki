@@ -27,7 +27,7 @@
 * **[Developer screencasts](http://www.youtube.com/playlist?list=PLJFitFaE9AY_DDlhl3Kq_vFeX27F1yt6I)**
 * **[Development process](https://archivesspace.atlassian.net/wiki/display/ADC/Development)**
 * **[Release process](https://archivesspace.atlassian.net/wiki/display/ADC/Releases+and+Sprints)** 
-* **[Jira project](https://archivesspace.atlassian.net/secure/Dashboard.jspa?selectPageId=10202)**
+* **[Jira project](https://development.archivesspace.org)**
 * **[Travis-CI project](http://travis-ci.org/archivesspace/archivesspace)**
 
 Additional developer documentation can be found throughout the application's code base in `README.md` files.
