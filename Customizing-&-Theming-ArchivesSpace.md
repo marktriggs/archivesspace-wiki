@@ -40,6 +40,21 @@ So, first let's add out image file to the "plugins/local/public/assets/images/my
 
 Restart the application and you should see your logo in the default view.
 
+## I just want to add a few CSS rules!!!
+
+You can customize CSS through the plugin system too. If you don't want to create a whole new plugin, the easiest way is to modify the 'local' plugin that ships with ArchivesSpace (it's intended for these kind of site-specific changes). As long as you've still got 'local' listed in your AppConfig[:plugins] list, your changes will get picked up.
+
+To do that, create a file called `archivesspace/plugins/local/frontend/views/layout_head.html.erb` and add the line:
+
+     <%= stylesheet_link_tag "#{@base_url}/assets/custom.css" %>
+
+Then place your CSS in the file:
+
+     archivesspace/plugins/local/frontend/assets/custom.css
+
+and it will get loaded on each page.
+
+
 ## I want to heavily theme my site and make a lot of CSS changes and template changes!
 
 If you're wanting to really trick out your site, you could do this in a plugin using the override methods show above, although there are some big disadvantages to this. The first is that assets will not be compiled by the Rails asset pipeline. Another is that you won't be able to take advantage of the variables and mixins that Bootstrap and Less provide as a framework, which really helps keep your assets well organized. 
