@@ -47,12 +47,12 @@ If you're wanting to really trick out your site, you could do this in a plugin u
 A better way to do this is to pull down a copy of the ArchivesSpace code and build out a new theme. A good resource on how to do this is [this video](https://www.youtube.com/watch?v=Uny736mZVnk) .
 This video covers the staff frontend UI, but the same steps can be applied to the public UI as well. 
 
-Also become a little familiar with the [build system instructions ](https://github.com/hudmol/archivesspace/blob/master/build/README.md)
+Also become a little familiar with the [build system instructions ](https://github.com/archivesspace/archivesspace/blob/master/build/README.md)
 
 
 First, pull down a new copy of ArchivesSpace using git and be sure to checkout a tag matching the version you're using or wanting to use.
 
-     $ git clone https://github.com/hudmol/archivesspace/blob/master/build/README.md
+     $ git clone https://github.com/archivesspace/archivesspace/blob/master/build/README.md
      $ git checkout v1.0.9
 
 You can start your application development server by executing:
